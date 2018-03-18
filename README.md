@@ -14,7 +14,7 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 - [Mathematics of Machine Translation - Algorithms for translating languages](https://github.com/rusac/math/blob/master/Mathematics%20of%20Machine%20Translation%20-%20Parameter%20Estimation%20-%20Mercer%20(1993).pdf)
 
-- [Private traits and attributes are predictable from Facebook 'likes']()
+- [Private traits and attributes are predictable from Facebook 'likes'](https://github.com/rusac/math/blob/master/Private%20traits%20and%20attributes%20are%20predictable%20from%20digital%20records%20of%20facebook%20likes%20-%20Kosinski(2013).pdf)
 
 
 ### Vectors
