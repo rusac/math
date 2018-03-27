@@ -1,6 +1,12 @@
 # Math
 
-### Usefulness of mathematics
+### Complex Numbers
+
+- [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
+
+Quaternions are used for 'calculations involving three-dimensional rotations', such as in aeronautics and robotics. 
+
+### Digital Signal Processing
 
 - [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 
