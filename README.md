@@ -1,5 +1,9 @@
 # Math
 
+### Astronomy
+
+- [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s)
+
 ### Complex Numbers
 
 - [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
