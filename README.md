@@ -4,6 +4,8 @@
 
 - [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s)
 
+Terence Tao discusses how we have determined the distance to the moon, sun, planets, and so on, describing the mathematics and technology at each 'rung' of the ladder.
+
 ### Complex Numbers
 
 - [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
