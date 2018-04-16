@@ -22,6 +22,10 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 - [Book of Proof - Hammack](http://www.people.vcu.edu/%7Erhammack/BookOfProof/index.html)
 
+### Sound and Sine Waves
+
+- [Encoding data in dubstep drops](https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops)
+
 ### Statistics, data management, probability
 
 - [Mathematics of Machine Translation - Algorithms for translating languages](https://github.com/rusac/math/blob/master/Mathematics%20of%20Machine%20Translation%20-%20Parameter%20Estimation%20-%20Mercer%20(1993).pdf)
