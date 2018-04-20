@@ -12,6 +12,10 @@ Terence Tao discusses how we have determined the distance to the moon, sun, plan
 
 Quaternions are used for 'calculations involving three-dimensional rotations', such as in aeronautics and robotics. 
 
+### Computing
+
+- [A Mathematical Theory of Communication - C.E.Shannon]()
+
 ### Digital Signal Processing
 
 - [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
