@@ -40,3 +40,12 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 ### Vectors
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
+
+
+
+
+## Puzzles
+
+- [Alex Bellos' Monday Puzzle - The Guardian](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
+
+- [Project Euler](http://projecteuler.net)
