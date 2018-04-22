@@ -9,7 +9,7 @@ Terence Tao discusses how we have determined the distance to the moon, sun, plan
 ### Biomimicry
 
 - [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
-- [Sea Urchin Spines Inspire Elastic Concrete](Mesocrystalline calcium silicate hydrate - elastic concrete (2017)e1701216.full.pdf)
+- [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
 
 ### Complex Numbers
 
