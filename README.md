@@ -6,6 +6,10 @@
 
 Terence Tao discusses how we have determined the distance to the moon, sun, planets, and so on, describing the mathematics and technology at each 'rung' of the ladder.
 
+### Biomimicry
+
+- [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
+
 ### Complex Numbers
 
 - [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
