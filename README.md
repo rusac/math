@@ -54,3 +54,8 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 - [Alex Bellos' Monday Puzzle - The Guardian](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
 
 - [Project Euler](http://projecteuler.net)
+
+## Writing Papers in Mathematics
+
+- [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
+- [TeXstudio - Latex Editor (all platforms)](https://www.texstudio.org/)
