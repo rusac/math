@@ -121,14 +121,14 @@ Basic Mathematics - Lang
 Algebra - Gelfand, Shen (supplementary)
 Trigonometry - Gelfand, Saul (supplementary)
 
-    Precalculus covers the algebra, trigonometry, and geometry necessary for calculus. I like Basic Mathematics because it contains a mix between theory and computation. The author, Lang, only chooses to include proofs when they will help develop intuition for a topic. For that reason, there will be a few other books by Lang on this list. I've also included two books by Gelfand and friends because they provide extra practice in algebra and trigonometry. Although they're not essential, they will be helpful for future work. After completing Basic Mathematics we can study calculus.
+*Precalculus covers the algebra, trigonometry, and geometry necessary for calculus. I like Basic Mathematics because it contains a mix between theory and computation. The author, Lang, only chooses to include proofs when they will help develop intuition for a topic. For that reason, there will be a few other books by Lang on this list. I've also included two books by Gelfand and friends because they provide extra practice in algebra and trigonometry. Although they're not essential, they will be helpful for future work. After completing Basic Mathematics we can study calculus.*
 
 Calculus
 
 A First Course in Calculus - Lang
 Calculus of Several Variables - Lang
 
-    Calculus covers rates of change and areas. A First Course in Calculus and Calculus of Several Variables cover, respectively, single variable and multivariable calculus. I think it's beneficial to study calculus concurrently with physics to get a grasp on how it's used.
+*Calculus covers rates of change and areas. A First Course in Calculus and Calculus of Several Variables cover, respectively, single variable and multivariable calculus. I think it's beneficial to study calculus concurrently with physics to get a grasp on how it's used.*
 
 Calculus (round 2)
 
@@ -137,7 +137,7 @@ An Introduction to Inequalities - Beckenbach, Bellman (supplementary)
 Calculus, Volume 1 - Apostol
 Calculus, Volume 2 - Apostol
 
-    Now we're ready to develop calculus with some theory. I've included the first two books in this section to smoothen the transition between computational calculus, like in Lang's books, and theoretical calculus. They expound on some theorems and topics that are frequently used in later mathematics books. The two calculus books by Apostol cover, respectively, single and multivariable calculus as well as an introduction to differential equations, linear algebra, and probability.
+*Now we're ready to develop calculus with some theory. I've included the first two books in this section to smoothen the transition between computational calculus, like in Lang's books, and theoretical calculus. They expound on some theorems and topics that are frequently used in later mathematics books. The two calculus books by Apostol cover, respectively, single and multivariable calculus as well as an introduction to differential equations, linear algebra, and probability.*
 
 Spivak's Calculus is also well-regarded as an alternative to Apostol's.
 
@@ -168,13 +168,9 @@ Introduction to Graph Theory - Trudeau (review here!)
 More
 
 This blog contains a larger list of textbooks for each topic.
-
 This post compiles a larger list of free math resources.
-
 This post is a similar compilation.
-
 This thread has a list of interactive math resources.
-
 Openstax provides a number of totally free math textbooks.
 Misc Advice
 
