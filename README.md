@@ -55,10 +55,23 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 - [Project Euler](http://projecteuler.net)
 
-## Writing Papers in Mathematics
+## Writing Papers in Mathematics and Using LaTeX
 
 - [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [TeXstudio - Latex Editor (all platforms)](https://www.texstudio.org/)
+- [Detextify - draw a shape and get the LaTeX command for it](http://detexify.kirelabs.org/classify.html?)
+- [Overleaf - Collaborative online LaTeX editor](https://www.overleaf.com/)
+- [ShareLaTeX - Same as above](https://www.sharelatex.com/)
+- [TeX Users Group](http://www.tug.org/)
+- [The Comprehensive TeX Archive Network](http://www.ctan.org/)
+- [Art of Problem Solving Tutorial](http://www.artofproblemsolving.com/LaTeX/AoPS_L_About.php)
+- [TexPaste](http://www.texpaste.com/)
+- [Xfig](http://www.xfig.org/)
+- [WriteLaTeX WYSIWYG](https://www.writelatex.com/)
+- [TeXample.net](http://www.texample.net/)
+- [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
+    *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
+
 
 ## Learning Math from Scratch
 
