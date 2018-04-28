@@ -67,6 +67,7 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 ## Writing Papers in Mathematics and Using LaTeX
 
+- [Math Symbols and Equations in Latex](http://crab.rutgers.edu/~karel/latex/class4/class4.html)
 - [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [TeXstudio - Latex Editor (all platforms)](https://www.texstudio.org/)
 - [Detextify - draw a shape and get the LaTeX command for it](http://detexify.kirelabs.org/classify.html?)
