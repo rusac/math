@@ -195,3 +195,10 @@ Math is not a spectator sport. Your brain learns by doing and practicing, not wa
 
 Good luck!
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+# Other Random Miscellany:
+
+## Inquiry Based Learning
+- [Inquiry Based Learning?](http://maamathedmatters.blogspot.ca/2013/05/what-heck-is-ibl.html)
+- [Teaching Math Projects etc.](https://boolesrings.org/mpawliuk/2015/05/29/stepping-up-your-math-game-35-summer-projects-for-post-secondary-math-students/)
+- [140 Challenge Levels Site](http://notpron.org/notpron/)
