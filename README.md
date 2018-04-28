@@ -34,6 +34,7 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 ### Proofs
 
 - [Book of Proof - Hammack](http://www.people.vcu.edu/%7Erhammack/BookOfProof/index.html)
+- [How to Read and Understand Proofs](https://boolesrings.org/mpawliuk/2014/03/31/how-to-read-understand-and-study-proofs/)
 
 ### Sound and Sine Waves
 
