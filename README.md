@@ -20,6 +20,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 ### Computing
 
 - [A Mathematical Theory of Communication - C.E.Shannon](Shannon-MathematicalTheoryofCommunication.pdf)
+- [The Halting Problem](http://www.cgl.uwaterloo.ca/csk/halt/)
 
 ### Cryptography
 
