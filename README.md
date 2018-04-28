@@ -21,6 +21,10 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 - [A Mathematical Theory of Communication - C.E.Shannon](Shannon-MathematicalTheoryofCommunication.pdf)
 
+### Cryptography
+
+- [Short discussion about the history of cryptography](https://boolesrings.org/mpawliuk/2013/03/24/kangaroo-contest-2013-talk-about-cryptography/)
+
 ### Digital Signal Processing
 
 - [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
