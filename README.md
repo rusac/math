@@ -205,6 +205,10 @@ Good luck!
 
 # Other Random Miscellany:
 
+## Open Source Mathematics Textbooks:
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7)
+- [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+
 ## Inquiry Based Learning
 - [Inquiry Based Learning?](http://maamathedmatters.blogspot.ca/2013/05/what-heck-is-ibl.html)
 - [Teaching Math Projects etc.](https://boolesrings.org/mpawliuk/2015/05/29/stepping-up-your-math-game-35-summer-projects-for-post-secondary-math-students/)
