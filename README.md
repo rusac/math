@@ -6,6 +6,10 @@
 
 Terence Tao discusses how we have determined the distance to the moon, sun, planets, and so on, describing the mathematics and technology at each 'rung' of the ladder.
 
+### Biology
+
+- [The Chemica Basis of Morphogenesis - A.M.Turing (1952)](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
+
 ### Biomimicry
 
 - [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
