@@ -8,11 +8,10 @@ Terence Tao discusses how we have determined the distance to the moon, sun, plan
 
 ### Biology
 
-- [Math Sheds Light on How Living Cells 'Think'](https://github.com/rusac/math/blob/master/README.md)
+- [Math Sheds Light on How Living Cells 'Think'](#null)
    - [News article](https://phys.org/news/2018-05-math-cells.html)
    - [Journal source](https://www.nature.com/articles/s41467-018-04151-6)
 - [The Chemical Basis of Morphogenesis - A.M.Turing (1952)](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
-- [empty link](#null)
 
 ### Biomimicry
 
