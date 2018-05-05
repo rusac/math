@@ -14,6 +14,7 @@ Terence Tao discusses how we have determined the distance to the moon, sun, plan
 
 - [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
 - [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
+- [Water filter inspired by Alan Turing passes first test: Membrane's structure predicted in mathematician's lone biology paper](https://www.nature.com/articles/d41586-018-05055-7)
 
 ### Complex Numbers
 
