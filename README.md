@@ -8,7 +8,7 @@ Terence Tao discusses how we have determined the distance to the moon, sun, plan
 
 ### Biology
 
-- [The Chemica Basis of Morphogenesis - A.M.Turing (1952)](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
+- [The Chemical Basis of Morphogenesis - A.M.Turing (1952)](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
 
 ### Biomimicry
 
