@@ -70,8 +70,20 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 ## Puzzles
 
 - [Alex Bellos' Monday Puzzle - The Guardian](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
-
 - [Project Euler](http://projecteuler.net)
+
+## Math-related Games
+
+- [A Slower Speed of Light ](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
+- [Euclidea](http://euclidea.xyz)
+- [HyperRogue](http://roguetemple.com/z/hyper/)
+- [Kerbal Space Program](#null)
+- [Manufactoria](http://pleasingfungus.com/Manufactoria/)
+- [Miegakure](http://miegakure.com)
+- [Minecraft](#null)
+- [Portal](#null)
+- [Spacechem](http://www.zachtronics.com/spacechem/)
+- [Talos Principle](#null)
 
 ## Writing Papers in Mathematics and Using LaTeX
 
