@@ -34,6 +34,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 - [Short discussion about the history of cryptography](https://boolesrings.org/mpawliuk/2013/03/24/kangaroo-contest-2013-talk-about-cryptography/)
 - [A Masked White-box Cryptographic Implementation for Protecting against Differential Computation Analysis - Seungkwang Lee (2017)](https://eprint.iacr.org/2017/267.pdf)
+- [Repository of various public white-box cryptographic implementations and their practical attacks](https://github.com/SideChannelMarvels/Deadpool)
 
 ### Digital Signal Processing
 
