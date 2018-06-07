@@ -1,5 +1,8 @@
 # Math
 
+### Books 
+http://linear.ups.edu/curriculum.html
+
 ### Astronomy
 
 - [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s)
