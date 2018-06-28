@@ -1,5 +1,9 @@
 # Math
 
+### Biography
+
+- [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
+
 ### Books 
 http://linear.ups.edu/curriculum.html
 
@@ -238,3 +242,6 @@ Good luck!
 - [Inquiry Based Learning?](http://maamathedmatters.blogspot.ca/2013/05/what-heck-is-ibl.html)
 - [Teaching Math Projects etc.](https://boolesrings.org/mpawliuk/2015/05/29/stepping-up-your-math-game-35-summer-projects-for-post-secondary-math-students/)
 - [140 Challenge Levels Site](http://notpron.org/notpron/)
+
+## Math Video Series
+- [Project Mathematics -](https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT)*The “Project MATHEMATICS!” video series explore basic topics in high school mathematics in ways that cannot be done at the chalkboard or in a textbook. They bring mathematics to life with imaginative computer animation, live action, music, special effects, and a sense of humor. The videos were animated by James F. Blinn, and produced by Professor Tom M. Apostol at the California Institute of Technology, Caltech, in Pasadena, CA.*
