@@ -245,3 +245,8 @@ Good luck!
 
 ## Math Video Series
 - [Project Mathematics -](https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT)*The “Project MATHEMATICS!” video series explore basic topics in high school mathematics in ways that cannot be done at the chalkboard or in a textbook. They bring mathematics to life with imaginative computer animation, live action, music, special effects, and a sense of humor. The videos were animated by James F. Blinn, and produced by Professor Tom M. Apostol at the California Institute of Technology, Caltech, in Pasadena, CA.*
+
+## Learning and Studying Maths - Resources
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- [Learning How to Learn Seminar Series - Dan Wolczuk (Mathematics Faculty) with Student Success Office University of Waterloo
+](https://www.math.uwaterloo.ca/~pkates/LT3/learning2learn.html)
