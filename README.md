@@ -89,6 +89,7 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 ### Biographies
 
+- [An Evening with Leonhard Euler](https://www.youtube.com/watch?v=h-DV26x6n_Q)
 - [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
 
 ### Books 
