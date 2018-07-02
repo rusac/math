@@ -1,11 +1,4 @@
-# Math
-
-### Biography
-
-- [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
-
-### Books 
-http://linear.ups.edu/curriculum.html
+# Math - Where math is used
 
 ### Astronomy
 
@@ -68,20 +61,18 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 - [Private traits and attributes are predictable from Facebook 'likes'](https://github.com/rusac/math/blob/master/Private%20traits%20and%20attributes%20are%20predictable%20from%20digital%20records%20of%20facebook%20likes%20-%20Kosinski(2013).pdf)
 
-
 ### Vectors
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
 
+# Recreational Mathematics
 
-
-
-## Puzzles
+### Puzzles
 
 - [Alex Bellos' Monday Puzzle - The Guardian](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
 - [Project Euler](http://projecteuler.net)
 
-## Math-related Games
+### Math-related Games
 
 - [A Slower Speed of Light ](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 - [Euclidea](http://euclidea.xyz)
@@ -94,7 +85,16 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 - [Spacechem](http://www.zachtronics.com/spacechem/)
 - [Talos Principle](#null)
 
-## Writing Papers in Mathematics and Using LaTeX
+# Math Resources
+
+### Biographies
+
+- [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
+
+### Books 
+http://linear.ups.edu/curriculum.html
+
+### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 - [Math Symbols and Equations in Latex](http://crab.rutgers.edu/~karel/latex/class4/class4.html)
 - [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
@@ -112,8 +112,7 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 - [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
 
-
-## Learning Math from Scratch
+### Learning Math from Scratch
 
 - Taken from reddit.com/r/learnmath:
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -218,16 +217,8 @@ The Book Of Proof by Hammack and How To Prove It by Velleman (both free in the l
 
 Introduction to Graph Theory - Trudeau (review here!)
 
-More
-
-This blog contains a larger list of textbooks for each topic.
-This post compiles a larger list of free math resources.
-This post is a similar compilation.
-This thread has a list of interactive math resources.
-Openstax provides a number of totally free math textbooks.
-Misc Advice
-
-Math is not a spectator sport. Your brain learns by doing and practicing, not watching and reading. That means you need to do exercises. If you don't reinforce the lectures with problems you solve yourself, the knowledge will slip away over time. By the time you come back to it a month later, you'll have forgotten it all.
+Misc Advice:
+*Math is not a spectator sport. Your brain learns by doing and practicing, not watching and reading. That means you need to do exercises. If you don't reinforce the lectures with problems you solve yourself, the knowledge will slip away over time. By the time you come back to it a month later, you'll have forgotten it all.*
 
 Good luck!
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
