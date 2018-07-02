@@ -236,7 +236,7 @@ Good luck!
 
 ## Math Video Series
 - [Project Mathematics -](https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT)*The “Project MATHEMATICS!” video series explore basic topics in high school mathematics in ways that cannot be done at the chalkboard or in a textbook. They bring mathematics to life with imaginative computer animation, live action, music, special effects, and a sense of humor. The videos were animated by James F. Blinn, and produced by Professor Tom M. Apostol at the California Institute of Technology, Caltech, in Pasadena, CA.*
-- [Calculus of Complex Variables, Differential Equations, and Linear Algebra: Herbert Gross (MIT Open Courseware)](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448&index=1) 
+- [Calculus of Complex Variables, Differential Equations, and Linear Algebra: Herbert Gross (MIT Open Courseware) - ](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448&index=1) 
 View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Commons BY-NC-SA More information at http://ocw.mit.edu/terms More courses at http://ocw.mit.edu
 
 ## Learning and Studying Maths - Resources
