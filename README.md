@@ -247,3 +247,4 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 
 ### Bloom's Taxonomy Revised
 - [Moving towards higher orders of thinking](http://thepeakperformancecenter.com/educational-learning/thinking/blooms-taxonomy/blooms-taxonomy-revised/)
+<img src="FBlooms-Revised.jpg" width="200">
