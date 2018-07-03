@@ -100,6 +100,10 @@ http://linear.ups.edu/curriculum.html
 - [University of Waterloo Courseware for MHF and MCV](https://courseware.cemc.uwaterloo.ca/)
 - [University of Cambridge - STEP Math Exam Preparation](https://stepdatabase.maths.org/)
 - [University of Cambridge - STEP Math Exam Past Papers](http://www.admissionstesting.org/for-test-takers/step/preparing-for-step/)
+- [University of Cambridge - STEP Support Program](https://maths.org/step/)
+- [NRICH Advanced Problem Solving Resources](https://nrich.maths.org/11472)
+- [Resources for Teaching A-Level Maths](https://undergroundmathematics.org/)
+- [University of Oxford - Maths Admissions Test](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
 
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
