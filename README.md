@@ -95,6 +95,11 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 ### Books 
 http://linear.ups.edu/curriculum.html
 
+### High-School Resources
+
+- [University of Waterloo Courseware for MHF and MCV](https://courseware.cemc.uwaterloo.ca/)
+- [University of Cambridge - STEP Math Exam Preparation](https://stepdatabase.maths.org/)
+
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 - [Math Symbols and Equations in Latex](http://crab.rutgers.edu/~karel/latex/class4/class4.html)
