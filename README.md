@@ -46,6 +46,13 @@ To quote the author of the guide in the link above: *"Digital Signal Processing 
 
 - [Infinity and the Mind](http://www.rudyrucker.com/infinityandthemind/)
 
+### Networks - Social and Political Connections
+
+- [Networks, Crowds, and Markets: Reasoning about a Highly Connected World (David Easley and Jon Kleinberg, CUP, 2010.](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch05.pdf)
+
+The author writes: *"Here we describe a rich part of social network theory that involves taking a network and annotating its links (i.e., its edges) with positive and negative signs.  Positive links represent friendship while negative links represent antagonism, and an important problem in the study of social networks is to understand the tension between these two forces.."*
+The complete preprint is available on-line at http://www.cs.cornell.edu/home/kleinber/networks-book/.
+
 ### Proofs
 
 - [Book of Proof - Hammack](http://www.people.vcu.edu/%7Erhammack/BookOfProof/index.html)
