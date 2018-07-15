@@ -40,9 +40,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 - [Audio-Visual Speech Separation - Separating Audio Tracks From Video](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html) *"People are remarkably good at focusing their attention on a particular person in a noisy environment, mentally “muting” all other voices and sounds. Known as the cocktail party effect, this capability comes natural to us humans. However, automatic speech separation — separating an audio signal into its individual speech sources — while a well-studied problem, remains a significant challenge for computers."* The paper can be found [here](https://arxiv.org/pdf/1804.03619.pdf).
 
-- [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
-
-To quote the author of the guide in the link above: *"Digital Signal Processing is one of the most powerful technologies that will shape science and engineering in the twenty-first century. Revolutionary changes have already been made in a broad range of fields: communications, medical imaging, radar & sonar, high fidelity music reproduction, and oil prospecting, to name just a few. Each of these areas has developed a deep DSP technology, with its own algorithms, mathematics, and specialized techniques."*
+- [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) To quote the author of the guide in the link above: *"Digital Signal Processing is one of the most powerful technologies that will shape science and engineering in the twenty-first century. Revolutionary changes have already been made in a broad range of fields: communications, medical imaging, radar & sonar, high fidelity music reproduction, and oil prospecting, to name just a few. Each of these areas has developed a deep DSP technology, with its own algorithms, mathematics, and specialized techniques."*
 
 ### Infinity
 
@@ -117,6 +115,7 @@ http://linear.ups.edu/curriculum.html
 - [NRICH Advanced Problem Solving Resources](https://nrich.maths.org/11472)
 - [Resources for Teaching A-Level Maths](https://undergroundmathematics.org/)
 - [University of Oxford - Maths Admissions Test](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
+- [Math Competitions Compilation](http://mathcompetitions.info/)
 
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
