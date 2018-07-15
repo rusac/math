@@ -36,7 +36,9 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [A Masked White-box Cryptographic Implementation for Protecting against Differential Computation Analysis - Seungkwang Lee (2017)](https://eprint.iacr.org/2017/267.pdf)
 - [Repository of various public white-box cryptographic implementations and their practical attacks](https://github.com/SideChannelMarvels/Deadpool)
 
-### Digital Signal Processing
+### Digital Signal Processing - Audio, Visual, and Other
+
+- [Audio-Visual Speech Separation - Separating Audio Tracks From Video](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html) *"People are remarkably good at focusing their attention on a particular person in a noisy environment, mentally “muting” all other voices and sounds. Known as the cocktail party effect, this capability comes natural to us humans. However, automatic speech separation — separating an audio signal into its individual speech sources — while a well-studied problem, remains a significant challenge for computers."* The paper can be found [here](https://arxiv.org/pdf/1804.03619.pdf).
 
 - [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 
