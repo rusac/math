@@ -2,7 +2,7 @@
 
 ### Algorithms
 
-- [Recounting the Rationals - a process for listing all rational numbers](http://fermatslibrary.com/s/recounting-the-rationals)
+- [Recounting the Rationals - a process for listing all rational numbers](https://www.math.upenn.edu/~wilf/website/recounting.pdf)
 
 ### Astronomy
 
