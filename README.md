@@ -1,5 +1,9 @@
 # Math - Where math is used
 
+### Algorithms
+
+- [Recounting the Rationals - a process for listing all rational numbers](http://fermatslibrary.com/s/recounting-the-rationals)
+
 ### Astronomy
 
 - [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s)
