@@ -271,6 +271,10 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 - [Teaching Math Projects etc.](https://boolesrings.org/mpawliuk/2015/05/29/stepping-up-your-math-game-35-summer-projects-for-post-secondary-math-students/)
 - [140 Challenge Levels Site](http://notpron.org/notpron/)
 
+### Pedagogy
+
+- [Thinking Outside the Textbook](https://blogs.ams.org/matheducation/2018/07/16/thinking-outside-the-textbook/)
+
 ### Bloom's Taxonomy Revised
 - [Moving towards higher orders of thinking](http://thepeakperformancecenter.com/educational-learning/thinking/blooms-taxonomy/blooms-taxonomy-revised/)
 <img src="Blooms-Revised.jpg" width="200">
