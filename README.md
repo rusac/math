@@ -6,13 +6,9 @@
 
 ### Astronomy
 
-- [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s)
+- [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s) - Terence Tao discusses how we have determined the distance to the moon, sun, planets, and so on, describing the mathematics and technology at each 'rung' of the ladder.
 
-Terence Tao discusses how we have determined the distance to the moon, sun, planets, and so on, describing the mathematics and technology at each 'rung' of the ladder.
-
-- [Why Do Planets Have Elliptical Orbits](https://www.youtube.com/watch?v=xdIjYBtnvZU)
-
-3Blue1Brown explains using math why orbits are elliptical. A paper explaining the same argument is [here](http://www.cems.uvm.edu/~tlakoba/AppliedUGMath/auxpaper_planets_HallHigson.pdf). 
+- [Why Do Planets Have Elliptical Orbits](https://www.youtube.com/watch?v=xdIjYBtnvZU) - 3Blue1Brown explains using math why orbits are elliptical. A paper explaining the same argument is [here](http://www.cems.uvm.edu/~tlakoba/AppliedUGMath/auxpaper_planets_HallHigson.pdf). 
 
 ### Biology
 
