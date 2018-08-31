@@ -14,6 +14,7 @@
 
 - [Ants Estimate Area Using Buffon's Needle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1690598/pdf/10819145.pdf)
    - [Accuracy of Buffon's Needle](https://academic.oup.com/beheco/article/12/6/655/462588)
+- [Statistical mechanics for natural flocks of birds - modelling flock behaviour](http://www.pnas.org/content/pnas/109/13/4786.full.pdf) From the article: *"Flocking is a typical example of emergent collective behavior, where interactions between individuals produce collective patterns on the large scale. Here we show how a quantitative microscopic theory for directional ordering in a flock can be derived directly from field data. We construct the minimally structured (maximum entropy) model consistent with experimental correlations in large flocks of starlings."*
 - [Math Sheds Light on How Living Cells 'Think'](#null)
    - [News article](https://phys.org/news/2018-05-math-cells.html)
    - [Journal source](https://www.nature.com/articles/s41467-018-04151-6)
