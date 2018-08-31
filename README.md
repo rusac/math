@@ -109,6 +109,9 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 ### Biographies
 
 - [An Evening with Leonhard Euler](https://www.youtube.com/watch?v=h-DV26x6n_Q)
+- [Fermat](#null)
+   - [Andrew Wiles’ historical Fermat's Last Theorem talk at the 1998 ICM](https://www.youtube.com/watch?v=EDMJElLpm1U)
+   - [Fermat's Last Theorem - The Theorem and Its Proof: An Exploration of Issues and Ideas [1993]](https://www.youtube.com/watch?v=6ymTZEeTjI8)
 - [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
 
 ### Books 
