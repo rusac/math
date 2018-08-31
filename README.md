@@ -12,6 +12,8 @@
 
 ### Biology
 
+- [Ants Estimate Area Using Buffon's Needle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1690598/pdf/10819145.pdf)
+   - [Accuracy of Buffon's Needle](https://academic.oup.com/beheco/article/12/6/655/462588)
 - [Math Sheds Light on How Living Cells 'Think'](#null)
    - [News article](https://phys.org/news/2018-05-math-cells.html)
    - [Journal source](https://www.nature.com/articles/s41467-018-04151-6)
