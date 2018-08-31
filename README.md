@@ -274,6 +274,9 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 - [Learning How to Learn Seminar Series - Dan Wolczuk (Mathematics Faculty) with Student Success Office University of Waterloo
 ](https://www.math.uwaterloo.ca/~pkates/LT3/learning2learn.html)
 
+## Emergence
+- [Emergence - How stupid things bcome smart together](https://www.youtube.com/watch?v=16W7c0mb-rE&feature=youtu.be)
+
 ### Inquiry Based Learning
 - [Inquiry Based Learning?](http://maamathedmatters.blogspot.ca/2013/05/what-heck-is-ibl.html)
 - [Teaching Math Projects etc.](https://boolesrings.org/mpawliuk/2015/05/29/stepping-up-your-math-game-35-summer-projects-for-post-secondary-math-students/)
