@@ -77,6 +77,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 ### Statistics, data management, probability
 
+- [Game Track - Covering the gaming market](https://www.ipsos.com/ipsos-mori/en-uk/gametrack)
+
 - [Mathematics of Machine Translation - Algorithms for translating languages](https://github.com/rusac/math/blob/master/Mathematics%20of%20Machine%20Translation%20-%20Parameter%20Estimation%20-%20Mercer%20(1993).pdf)
 
 - [Private traits and attributes are predictable from Facebook 'likes'](https://github.com/rusac/math/blob/master/Private%20traits%20and%20attributes%20are%20predictable%20from%20digital%20records%20of%20facebook%20likes%20-%20Kosinski(2013).pdf)
