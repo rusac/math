@@ -133,9 +133,11 @@ http://linear.ups.edu/curriculum.html
 
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
+- [Online LateX Editor - Overleaf](www.overleaf.com)
 - [Math Symbols and Equations in Latex](http://crab.rutgers.edu/~karel/latex/class4/class4.html)
 - [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [TeXstudio - Latex Editor (all platforms)](https://www.texstudio.org/)
+- [Typing Exams in LateX](https://www.sharelatex.com/learn/latex/Typing_exams_in_LaTeX#grading_table)
 - [Detextify - draw a shape and get the LaTeX command for it](http://detexify.kirelabs.org/classify.html?)
 - [Overleaf - Collaborative online LaTeX editor](https://www.overleaf.com/)
 - [ShareLaTeX - Same as above](https://www.sharelatex.com/)
