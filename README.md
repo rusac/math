@@ -4,6 +4,10 @@
 
 - [Recounting the Rationals - a process for listing all rational numbers](https://www.math.upenn.edu/~wilf/website/recounting.pdf)
 
+### Applications of Math to Real-World Problems
+
+- [Real-world applications of mathematics, by arxiv subject area?](https://mathoverflow.net/questions/2556/real-world-applications-of-mathematics-by-arxiv-subject-area)
+
 ### Art
 
 - [Rafael Araujo on mathematical illustrations of nature](https://www.orbmag.com/visual-arts/rafael-araujo-on-mathematical-illustrations-of-nature/)
