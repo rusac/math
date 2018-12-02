@@ -71,6 +71,10 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [Networks, Crowds, and Markets: Reasoning about a Highly Connected World (David Easley and Jon Kleinberg, CUP, 2010.](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch05.pdf) - The author writes: *"Here we describe a rich part of social network theory that involves taking a network and annotating its links (i.e., its edges) with positive and negative signs.  Positive links represent friendship while negative links represent antagonism, and an important problem in the study of social networks is to understand the tension between these two forces.."*
 The complete preprint is available on-line at http://www.cs.cornell.edu/home/kleinber/networks-book/.
 
+- [The Polarization of Society: Even Scientists Become Tribal](https://www.acsh.org/news/2018/11/28/polarization-society-even-scientists-become-tribal-13628) - *The authors, Cailin O'Connor and James Owen Weatherall, argue that polarization is the natural outcome when groups of people disagree. In fact, they document a major example of polarization within the scientific community itself.*
+
+- [The Evolution of Trust](https://ncase.me/trust/)
+
 ### Philosophy
 
 - [The 'Square of Opposition', a collection of logical relationships traditionally embodied in a square diagram.](https://plato.stanford.edu/entries/square/)
