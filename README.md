@@ -2,6 +2,7 @@
 
 ### Algorithms
 
+- [How Reddit ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
 - [Recounting the Rationals - a process for listing all rational numbers](https://www.math.upenn.edu/~wilf/website/recounting.pdf)
 
 ### Applications of Math to Real-World Problems
