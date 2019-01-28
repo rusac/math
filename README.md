@@ -131,6 +131,13 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [Spacechem](http://www.zachtronics.com/spacechem/)
 - [Talos Principle](#null)
 
+### Making Drawings
+
+- Escher
+- Dragon Curve
+- Golden Spiral
+- Appolonian Gasket, Serpinski Triangle, etc
+
 # Math Resources
 
 ### Biographies
