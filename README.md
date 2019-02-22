@@ -153,6 +153,7 @@ http://linear.ups.edu/curriculum.html
 
 ### High-School Resources
 
+- [Calculus: Single Variable by Professor Robert Ghrist - video playlist](https://www.youtube.com/playlist?list=PLKc2XOQp0dMwj9zAXD5LlWpriIXIrGaNb)
 - [University of Waterloo Courseware for MHF and MCV](https://courseware.cemc.uwaterloo.ca/)
 - [University of Cambridge - STEP Math Exam Preparation](https://stepdatabase.maths.org/)
 - [University of Cambridge - STEP Math Exam Past Papers](http://www.admissionstesting.org/for-test-takers/step/preparing-for-step/)
