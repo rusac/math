@@ -170,6 +170,7 @@ http://linear.ups.edu/curriculum.html
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 - [Online LateX Editor - Overleaf](www.overleaf.com)
+- [PgfPlots Gallery - list of different graphs using pgfplots](http://pgfplots.sourceforge.net/gallery.html)
 - [Math Symbols and Equations in Latex](http://crab.rutgers.edu/~karel/latex/class4/class4.html)
 - [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [TeXstudio - Latex Editor (all platforms)](https://www.texstudio.org/)
