@@ -160,7 +160,6 @@ http://linear.ups.edu/curriculum.html
 ### Courses
 
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm)
-
 - [OpenStax](https://openstax.org/) - *Free textbooks for Algebra, Calculus, Statistics for highschool and undergraduate studies.*
 
 ### High-School Resources
