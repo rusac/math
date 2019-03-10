@@ -111,6 +111,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [Private traits and attributes are predictable from Facebook 'likes'](https://github.com/rusac/math/blob/master/Private%20traits%20and%20attributes%20are%20predictable%20from%20digital%20records%20of%20facebook%20likes%20-%20Kosinski(2013).pdf)
 
+- [Variance - Advancing the Science of Risk (Journal)](https://www.variancejournal.org/) - *"Variance is a peer-reviewed journal published by the Casualty Actuarial Society to disseminate work of interest to casualty actuaries worldwide. The focus of Variance is original practical and theoretical research in casualty actuarial science."*
+
 ### Vectors
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
