@@ -157,6 +157,12 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 ### Books 
 http://linear.ups.edu/curriculum.html
 
+### Courses
+
+- [MIT Open Courseware](https://ocw.mit.edu/index.htm)
+
+- [OpenStax](https://openstax.org/) - *Free textbooks for Algebra, Calculus, Statistics for highschool and undergraduate studies.*
+
 ### High-School Resources
 
 - [Calculus: Single Variable by Professor Robert Ghrist - video playlist](https://www.youtube.com/playlist?list=PLKc2XOQp0dMwj9zAXD5LlWpriIXIrGaNb)
