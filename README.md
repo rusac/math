@@ -198,6 +198,11 @@ http://linear.ups.edu/curriculum.html
 - [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
 
+### Problems
+
+- [33 - Sum of cubes](https://www.reddit.com/r/math/comments/ayzy6s/33886612897528752838778405442862239327361114688070/)
+- [42 is the new 33](https://www.reddit.com/r/math/comments/b0b67v/42_is_the_new_33/)
+
 ### Learning Math from Scratch
 
 - Taken from reddit.com/r/learnmath:
