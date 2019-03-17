@@ -28,6 +28,7 @@
    - [News article](https://phys.org/news/2018-05-math-cells.html)
    - [Journal source](https://www.nature.com/articles/s41467-018-04151-6)
 - [The Chemical Basis of Morphogenesis - A.M.Turing (1952)](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
+- [Seashells: The plainness and beauty of their mathematical description - Jorge Picado](http://www.mat.uc.pt/~picado/conchas/eng/article.pdf)
 
 ### Biomimicry
 
