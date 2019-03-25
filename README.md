@@ -197,6 +197,14 @@ http://linear.ups.edu/curriculum.html
 - [TeXample.net](http://www.texample.net/)
 - [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
+#### Graphs in LaTeX
+- [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
+- [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
+- [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/3d/)
+- [TikZ GUI editor](http://www.tikzedt.org/)
+- [Minimal TikZ - pdf guide](https://cremeronline.com/LaTeX/minimaltikz.pdf)
+- [Inkscape - draw program](https://inkscape.org/)
+
 
 ### Problems
 
@@ -207,111 +215,24 @@ http://linear.ups.edu/curriculum.html
 
 - Taken from reddit.com/r/learnmath:
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-Welcome to /r/learnmath! By far the most common question we get here is some variant of:
-
-"I want to learn math from scratch!"
-
-In which case, congrats, you're in the right place! The following recommendations are more or less the "canonical" ones:
-Online resources
 
 [Khan Academy](https://www.khanacademy.org/)
 
-This covers pretty much everything from pre-school math all the way up to high school, and some college-level courses. Each lesson is a video lecture, and there are interactive exercises for you to test your mastery of the topics.
-
 [PatrickJMT](http://patrickjmt.com/)
-
-Similar video lecture style to Khan Academy. Covers Arithmetic, Algebra, Trigonometry, Calculus, Discrete Math, Linear Algebra, Probability, and Statistics.
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 
-Covers Algebra, Calculus I, II, and III, and Differential Equations. Very complete, very detailed notes, and everything is pretty well explained in my opinion.
-
 [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
-
-Math lectures in a classroom-like setting. Covers Algebra, Calculus, and Statistics.
-
-[Art of Problem Solving](https://artofproblemsolving.com/)
-
-This is a little different to the others. It doesn't follow the traditional curriculum, and focuses more on problem-solving techniques, intended for math competitions. Even if you're not planning to take part in any competitions, it still teaches you how to solve some very tricky problems, and helps you develop a toolkit of mathematical techniques that you might not pick up elsewhere.
 
 [MIT OCW](https://ocw.mit.edu/courses/mathematics/)
 
-MIT OpenCourseware provides full courses on a variety of college-level subjects. It's one of the best resources on the internet for learning advanced math. Not every course has full video lectures, but they're still pretty good even without those.
-
 [Better Explained](https://betterexplained.com/)
 
-Good for developing intuition.
-
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-
-Youtube channel that puts out fantastic videos intended to develop mathematical intuition, and motivating the subject. It includes possibly the best introduction to the subject of Linear Algebra I've ever come across. His calculus series is pretty great too. You should watch these in conjunction with the above resources.
-
-MOOCs
-
-There are many free MOOCs (Massive Open Online Courses) out there. You can find them on sites like edX, Coursera, or through course catalogues like Class Central.
-Textbooks
-
-Maybe you get easily distracted online, or you don't have constant access to the internet. Some of these recs are cribbed from this post.
-
-Geometry
-
-Geometry: A High School Course - Lang
-Geometry - Book I and Book II - Kiselev (to be read alongside Lang's book)
-
-Algebra and Precalc
-
-Basic Mathematics - Lang
-Algebra - Gelfand, Shen (supplementary)
-Trigonometry - Gelfand, Saul (supplementary)
-
-*Precalculus covers the algebra, trigonometry, and geometry necessary for calculus. I like Basic Mathematics because it contains a mix between theory and computation. The author, Lang, only chooses to include proofs when they will help develop intuition for a topic. For that reason, there will be a few other books by Lang on this list. I've also included two books by Gelfand and friends because they provide extra practice in algebra and trigonometry. Although they're not essential, they will be helpful for future work. After completing Basic Mathematics we can study calculus.*
-
-Calculus
-
-A First Course in Calculus - Lang
-Calculus of Several Variables - Lang
-
-*Calculus covers rates of change and areas. A First Course in Calculus and Calculus of Several Variables cover, respectively, single variable and multivariable calculus. I think it's beneficial to study calculus concurrently with physics to get a grasp on how it's used.*
-
-Calculus (round 2)
-
-Numbers: Rational and Irrational - Niven (supplementary)
-An Introduction to Inequalities - Beckenbach, Bellman (supplementary)
-Calculus, Volume 1 - Apostol
-Calculus, Volume 2 - Apostol
-
-*Now we're ready to develop calculus with some theory. I've included the first two books in this section to smoothen the transition between computational calculus, like in Lang's books, and theoretical calculus. They expound on some theorems and topics that are frequently used in later mathematics books. The two calculus books by Apostol cover, respectively, single and multivariable calculus as well as an introduction to differential equations, linear algebra, and probability.*
-
-Spivak's Calculus is also well-regarded as an alternative to Apostol's.
-
-Probability and Stats
-
-Probability for the Enthusiastic Beginner - Morin (review here!)
-A Modern Introduction to Probability and Statistics: Understanding Why and How - Dekking
-Probability and Random Processes - Grimmet and Stirzaker (this one is more advanced, to be read if you've had some exposure to probability before, and you know some calculus)
-An Introduction to Statistical Learning and The Elements of Statistical Learning by Hastie and Tbshirani: a lot of people who come to this subreddit are interested in machine learning statistics, and these are really good introductions to the topic (you'll need to know some linear algebra as a prerequisite though). They both cover similar material, with Elements being more advanced and rigorous than Introduction. Both are freely available!
-
-Linear Algebra
-
-An Introduction to Linear Algebra - Lang
-Linear Algebra - Shilov
-Introduction to Linear Algebra - Strang (he also has a MIT OCW Linear Algebra course which is arguably better than the textbook)
-Linear Algebra Done Right - Axler (this presents the topic in a somewhat idiosyncratic way, but I think it's really good if you've done some linear algebra before and want something more elegant and rigorous. Also has a series of online video lectures to accompany each chapter!)
-
-Problem-Solving / Proofs / Other
-
-I put these at the end, but you can get something out of these books at any skill level. They're excellent stepping stones for proof-based courses, which otherwise tend to have a high difficulty curve for people not used to proofs.
-
-How To Solve It by Polya is an excellent introduction to problem-solving techniques. It's rightfully beloved for its chatty style and real, actionable advice rather than platitudes. It's also freely available! The Art and Craft of Problem Solving by Zeitz is along the same lines, but geared towards competition math.
-
-The Book Of Proof by Hammack and How To Prove It by Velleman (both free in the links!) are similar introductions to proof techniques and are well regarded.
-
-Introduction to Graph Theory - Trudeau (review here!)
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) *"Youtube channel that puts out fantastic videos intended to develop mathematical intuition, and motivating the subject. It includes possibly the best introduction to the subject of Linear Algebra I've ever come across. His calculus series is pretty great too. You should watch these in conjunction with the above resources."*
 
 Misc Advice:
 *Math is not a spectator sport. Your brain learns by doing and practicing, not watching and reading. That means you need to do exercises. If you don't reinforce the lectures with problems you solve yourself, the knowledge will slip away over time. By the time you come back to it a month later, you'll have forgotten it all.*
 
-Good luck!
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 # Other Random Miscellany:
