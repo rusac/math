@@ -202,6 +202,7 @@ http://linear.ups.edu/curriculum.html
 - [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
 - [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/3d/)
+- [Commutative Diagrams in TikZ](http://jmilne.org/not/Mtikz.pdf)
 - [TikZ GUI editor](http://www.tikzedt.org/)
 - [Minimal TikZ - pdf guide](https://cremeronline.com/LaTeX/minimaltikz.pdf)
 - [Inkscape - draw program](https://inkscape.org/)
@@ -251,6 +252,7 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 - [Learning How to Learn Seminar Series - Dan Wolczuk (Mathematics Faculty) with Student Success Office University of Waterloo
 ](https://www.math.uwaterloo.ca/~pkates/LT3/learning2learn.html)
+- [Mathematics Site - J.S. Milne](http://jmilne.org/math/index.html)
 
 ## Emergence
 - [Emergence - How stupid things bcome smart together](https://www.youtube.com/watch?v=16W7c0mb-rE&feature=youtu.be)
