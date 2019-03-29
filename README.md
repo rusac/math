@@ -254,6 +254,9 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 ](https://www.math.uwaterloo.ca/~pkates/LT3/learning2learn.html)
 - [Mathematics Site - J.S. Milne](http://jmilne.org/math/index.html)
 
+## Word Counts - Big Data
+- [Breaking Down Seinfeld](https://www.ceros.com/originals/breaking-down-seinfeld/)
+
 ## Emergence
 - [Emergence - How stupid things bcome smart together](https://www.youtube.com/watch?v=16W7c0mb-rE&feature=youtu.be)
 
