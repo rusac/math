@@ -199,12 +199,13 @@ http://linear.ups.edu/curriculum.html
 - [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
 #### Graphs in LaTeX
-- [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
-- [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/3d/)
 - [Commutative Diagrams in TikZ](http://jmilne.org/not/Mtikz.pdf)
 - [TikZ GUI editor](http://www.tikzedt.org/)
 - [Minimal TikZ - pdf guide](https://cremeronline.com/LaTeX/minimaltikz.pdf)
+- [matplotlib - Python graphing tool](https://matplotlib.org/)
+- [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
+- [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [Inkscape - draw program](https://inkscape.org/)
 
 
