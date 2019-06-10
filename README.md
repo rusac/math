@@ -259,6 +259,7 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 - [Learning How to Learn Seminar Series - Dan Wolczuk (Mathematics Faculty) with Student Success Office University of Waterloo
 ](https://www.math.uwaterloo.ca/~pkates/LT3/learning2learn.html)
 - [Mathematics Site - J.S. Milne](http://jmilne.org/math/index.html)
+- [How to study for exams - Evidence-based revision tips](https://www.youtube.com/watch?v=ukLnPbIffxE)
 
 ## Word Counts - Big Data
 - [Breaking Down Seinfeld](https://www.ceros.com/originals/breaking-down-seinfeld/)
