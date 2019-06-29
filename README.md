@@ -267,6 +267,9 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 ## Word Counts - Big Data
 - [Breaking Down Seinfeld](https://www.ceros.com/originals/breaking-down-seinfeld/)
 
+## The constant e
+- [Conceptualizing e - discussion](https://www.reddit.com/r/math/comments/c534fm/how_can_i_better_conceptualize_e/)
+
 ## Emergence
 - [Emergence - How stupid things bcome smart together](https://www.youtube.com/watch?v=16W7c0mb-rE&feature=youtu.be)
 
