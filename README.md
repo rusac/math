@@ -66,6 +66,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [The Mathematical Beauty of the Game SET](https://aperiodical.com/2018/07/the-mathematical-beauty-of-the-game-set/)
 - [Demo-Man - Interactive gamedev tutorials](https://demoman.net/)*Trigonometry and vector mathematics in basic videogame development.*
  - [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
+ - [Pysically Based Rendering - From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
  - [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
 
 ### Infinity
