@@ -184,6 +184,7 @@ http://linear.ups.edu/curriculum.html
 - [Resources for Teaching A-Level Maths](https://undergroundmathematics.org/)
 - [University of Oxford - Maths Admissions Test](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
 - [Math Competitions Compilation](http://mathcompetitions.info/)
+- [Order of Operations - the  48/2(9+3)  question](https://math.berkeley.edu/~gbergman/misc/numbers/ord_ops.html)
 
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
