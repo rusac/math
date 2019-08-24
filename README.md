@@ -213,6 +213,8 @@ http://linear.ups.edu/curriculum.html
 - [Commutative Diagrams in TikZ](http://jmilne.org/not/Mtikz.pdf)
 - [TikZ GUI editor](http://www.tikzedt.org/)
 - [Minimal TikZ - pdf guide](https://cremeronline.com/LaTeX/minimaltikz.pdf)
+- [gnuplot homepage](http://www.gnuplot.info/)
+- [Demos for gnuplot version 5.2](http://gnuplot.sourceforge.net/demo/)
 - [matplotlib - Python graphing tool](https://matplotlib.org/)
 - [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
 - [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
