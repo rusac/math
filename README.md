@@ -125,6 +125,13 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
 
+# Math - Where not using math can cause problems
+
+- [Spain builds submarine 70 tons too heavy after putting a decimal in the wrong place](https://o.canada.com/news/spain-builds-submarine-70-tons-too-heavy)
+- [Nov. 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
+- [Upside-Down Sensors Toppled Russian Rocket](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
+
+
 # Recreational Mathematics
 
 ### Puzzles
