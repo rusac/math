@@ -67,6 +67,10 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [Demo-Man - Interactive gamedev tutorials](https://demoman.net/)*Trigonometry and vector mathematics in basic videogame development.*
  - [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
  - [Pysically Based Rendering - From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
+ - [Rubik's Cube - God's Number is 20](https://www.cube20.org/)
+ - [Rubik's Cube - UWaterloo pdf](https://www.math.uwaterloo.ca/~malacroi/slides/CubeTalk.pdf)
+ - [The Mathematics of the Rubik’s CubeIntroduction to Group Theory and Permutation Puzzles](https://web.mit.edu/sp.268/www/rubik.pdf)
+ - [Group Theory and the Rubik’s Cube - Janet Chen](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik%27s%20Cube.pdf)
  - [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
 
 ### Infinity
