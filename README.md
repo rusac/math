@@ -203,6 +203,9 @@ http://linear.ups.edu/curriculum.html
 - Cartesian grid how-to: https://tex.stackexchange.com/questions/222882/drawing-minimal-xy-axis
    - https://tex.stackexchange.com/questions/142120/positioning-of-pgfplot-axis-labels
    - https://tex.stackexchange.com/questions/369929/label-pgfplot-axes-tikz
+- Presentation formats: beamer;
+   - [Powerdot - a presentation class for latex](https://www.ctan.org/pkg/powerdot)
+   - [Alternatives to beamer](https://tex.stackexchange.com/questions/27267/which-alternatives-to-the-beamer-class-exist)
 - [PgfPlots.net - making graphs with LaTeX](http://pgfplots.net/tikz/examples/all/)
 - [PgfPlots Gallery - list of different graphs using pgfplots](http://pgfplots.sourceforge.net/gallery.html)
 - [Creating LaTeX commands](https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Commands)
