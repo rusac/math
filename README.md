@@ -200,6 +200,9 @@ http://linear.ups.edu/curriculum.html
 ### LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 - [Online LateX Editor - Overleaf](www.overleaf.com)
+- Cartesian grid how-to: https://tex.stackexchange.com/questions/222882/drawing-minimal-xy-axis
+   - https://tex.stackexchange.com/questions/142120/positioning-of-pgfplot-axis-labels
+   - https://tex.stackexchange.com/questions/369929/label-pgfplot-axes-tikz
 - [PgfPlots.net - making graphs with LaTeX](http://pgfplots.net/tikz/examples/all/)
 - [PgfPlots Gallery - list of different graphs using pgfplots](http://pgfplots.sourceforge.net/gallery.html)
 - [Creating LaTeX commands](https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Commands)
