@@ -308,3 +308,9 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 ### Bloom's Taxonomy Revised
 - [Moving towards higher orders of thinking](http://thepeakperformancecenter.com/educational-learning/thinking/blooms-taxonomy/blooms-taxonomy-revised/)
 <img src="Blooms-Revised.jpg" width="200">
+
+## Markov Processes
+- [Markov Chains - explained visually](http://setosa.io/ev/markov-chains/)
+- [Really fast Markov chains in ~20 lines of sh, grep, cut and awk](https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/)
+- [Markov chains in Haskell](https://dschrempf.github.io/coding/2018-02-10-markov-chains-in-haskell/)
+
