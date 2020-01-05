@@ -77,6 +77,10 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 - [Infinity and the Mind](http://www.rudyrucker.com/infinityandthemind/)
 
+### Knots
+
+- [Knots - Mathematicians are devising new techniques to better predict how to tie strong knots that are useful in climbing and sailing](https://www.scientificamerican.com/article/color-changing-fibers-unravel-a-knotty-mystery/)
+
 ### Literature
 
 - [Cadaeic Cadenza - Writing poetry where each word-length denotes successive digits of pi](http://www.cadaeic.net/cadenza.htm)
@@ -129,7 +133,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
 
-# Math - Where not using math can cause problems
+
+# Where not using math can cause problems
 
 - [Spain builds submarine 70 tons too heavy after putting a decimal in the wrong place](https://o.canada.com/news/spain-builds-submarine-70-tons-too-heavy)
 - [Nov. 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
