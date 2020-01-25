@@ -38,6 +38,10 @@
 - [Slime Mold Grows Network Just Like Tokyo Rail System](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/)
 - [Water filter inspired by Alan Turing passes first test: Membrane's structure predicted in mathematician's lone biology paper](https://www.nature.com/articles/d41586-018-05055-7)
 
+### Coffee
+
+- [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238519304102%3Fshowall%3Dtrue)
+
 ### Complex Numbers
 
 - [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
