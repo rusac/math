@@ -143,7 +143,7 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [Spain builds submarine 70 tons too heavy after putting a decimal in the wrong place](https://o.canada.com/news/spain-builds-submarine-70-tons-too-heavy)
 - [Nov. 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
 - [Upside-Down Sensors Toppled Russian Rocket](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
-- [What Happens When Maths Goes Wrong? with Matt Parker](https://www.youtube.com/watch?v=6JwEYamjXpA)
+- [What Happens When Maths Goes Wrong? with Matt Parker](https://www.youtube.com/watch?v=6JwEYamjXpA) - *"You can find any pattern you want to any level of precision you want as long as you're prepared to ignore enough data."*
 
 
 # Recreational Mathematics
