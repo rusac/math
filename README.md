@@ -254,6 +254,8 @@ http://linear.ups.edu/curriculum.html
 - [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
 - [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [Inkscape - draw program](https://inkscape.org/)
+#### Tables in LaTeX
+- [Tables Generator](http://www.tablesgenerator.com/)
 
 
 ### Problems
