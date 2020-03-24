@@ -263,10 +263,15 @@ http://linear.ups.edu/curriculum.html
 - [33 - Sum of cubes](https://www.reddit.com/r/math/comments/ayzy6s/33886612897528752838778405442862239327361114688070/)
 - [42 is the new 33](https://www.reddit.com/r/math/comments/b0b67v/42_is_the_new_33/)
 
-### Learning Math from Scratch
+### Digital teaching presentation tools / resources:
 
-- Taken from reddit.com/r/learnmath:
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+- [BigBlueButton - video conferencing](https://bigbluebutton.org/)
+- [Jitsi - video conferencing](https://jitsi.org/)
+- [Using phone as document camera setup](https://mhenr18.github.io/improvised-document-camera/)
+- use Simple Screen Recorder to record work on screen
+
+
+### Extra Resources (taken from r/learnmath):
 
 [Khan Academy](https://www.khanacademy.org/)
 
