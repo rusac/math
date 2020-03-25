@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <script src="/testsinedemo.js"></script>
-  </body>
-</html>
-
-
 # Math - Where math is used
 
 ### Algorithms
