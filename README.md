@@ -1,4 +1,6 @@
-<script src="testsine.js"></script>
+
+
+<script src="/testsine.js"></script>
 
 # Math - Where math is used
 
