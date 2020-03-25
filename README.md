@@ -265,10 +265,11 @@ http://linear.ups.edu/curriculum.html
 
 ### Digital teaching presentation tools / resources:
 
-- [BigBlueButton - video conferencing](https://bigbluebutton.org/)
-- [Jitsi - video conferencing](https://jitsi.org/)
+- [Xournall ++ Note taking Software](https://github.com/xournalpp/xournalpp)
 - [Using phone as document camera setup](https://mhenr18.github.io/improvised-document-camera/)
 - use Simple Screen Recorder to record work on screen
+- [BigBlueButton - video conferencing](https://bigbluebutton.org/)
+- [Jitsi - video conferencing](https://jitsi.org/)
 
 
 ### Extra Resources (taken from r/learnmath):
