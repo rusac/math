@@ -125,6 +125,10 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [Book of Proof - Hammack](http://www.people.vcu.edu/%7Erhammack/BookOfProof/index.html)
 - [How to Read and Understand Proofs](https://boolesrings.org/mpawliuk/2014/03/31/how-to-read-understand-and-study-proofs/)
 
+### Science
+
+- [What to do when you don’t trust your data anymore](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/)
+
 ### Sound and Sine Waves
 
 - [Encoding data in dubstep drops](https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops)
