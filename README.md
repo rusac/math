@@ -86,10 +86,6 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
  - [Group Theory and the Rubik’s Cube - Janet Chen](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik%27s%20Cube.pdf)
  - [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
 
-###
-
-- [Gears](https://ciechanow.ski/)
-
 ### Infinity
 
 - [Infinity and the Mind](http://www.rudyrucker.com/infinityandthemind/)
@@ -124,6 +120,7 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 ### Physics
 
 - [A Collector of Math and Physics Surprises - Tadashi Tokieda](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
+- [Gears](https://ciechanow.ski/)
 
 ### Proofs
 
