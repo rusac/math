@@ -118,6 +118,10 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [The 'Square of Opposition', a collection of logical relationships traditionally embodied in a square diagram.](https://plato.stanford.edu/entries/square/)
 
+### Programming
+
+- [Is the room open? Programming problem](https://www.noudaldenhoven.nl/wordpress/?p=288)
+
 ### Physics
 
 - [A Collector of Math and Physics Surprises - Tadashi Tokieda](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
