@@ -79,6 +79,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [Demo-Man - Interactive gamedev tutorials](https://demoman.net/)*Trigonometry and vector mathematics in basic videogame development.*
  - [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
  - [Pysically Based Rendering - From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
+ - [Ray Tracing Essentials Part 1: Basics of Ray Tracing](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) 
  - [Rubik's Cube - God's Number is 20](https://www.cube20.org/)
  - [Rubik's Cube - UWaterloo pdf](https://www.math.uwaterloo.ca/~malacroi/slides/CubeTalk.pdf)
  - [The Mathematics of the Rubik’s CubeIntroduction to Group Theory and Permutation Puzzles](https://web.mit.edu/sp.268/www/rubik.pdf)
@@ -140,6 +141,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [German Tank Problem](https://mathsection.com/german-tank-problem/)
 
 - [Mathematics of Machine Translation - Algorithms for translating languages](https://github.com/rusac/math/blob/master/Mathematics%20of%20Machine%20Translation%20-%20Parameter%20Estimation%20-%20Mercer%20(1993).pdf)
+
+- [Multi-Armed Bandit(MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 
 - [Private traits and attributes are predictable from Facebook 'likes'](https://github.com/rusac/math/blob/master/Private%20traits%20and%20attributes%20are%20predictable%20from%20digital%20records%20of%20facebook%20likes%20-%20Kosinski(2013).pdf)
 
