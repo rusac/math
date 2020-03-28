@@ -145,6 +145,10 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [Variance - Advancing the Science of Risk (Journal)](https://www.variancejournal.org/) - *"Variance is a peer-reviewed journal published by the Casualty Actuarial Society to disseminate work of interest to casualty actuaries worldwide. The focus of Variance is original practical and theoretical research in casualty actuarial science."*
 
+### Traffic
+
+- [The case for almost never turning left while driving - UPS](https://www.washingtonpost.com/news/innovations/wp/2014/04/09/the-case-for-almost-never-turning-left-while-driving/)
+
 ### Vectors
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
