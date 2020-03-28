@@ -51,6 +51,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 ### Computing
 
 - [A Mathematical Theory of Communication - C.E.Shannon](Shannon-MathematicalTheoryofCommunication.pdf)
+- [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 - [The Halting Problem](http://www.cgl.uwaterloo.ca/csk/halt/)
 
 ### Cryptography
@@ -140,6 +141,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [Game Track - Covering the gaming market](https://www.ipsos.com/ipsos-mori/en-uk/gametrack)
 
 - [German Tank Problem](https://mathsection.com/german-tank-problem/)
+
+- [Heart doctors 'held back stent death data'](https://www.bbc.com/news/health-51539112)
 
 - [Mathematics of Machine Translation - Algorithms for translating languages](https://github.com/rusac/math/blob/master/Mathematics%20of%20Machine%20Translation%20-%20Parameter%20Estimation%20-%20Mercer%20(1993).pdf)
 
