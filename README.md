@@ -76,6 +76,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 ### Games
 
+- [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://allenchou.net/2020/01/dot-product-projection-reflection/)
 - [The Mathematical Beauty of the Game SET](https://aperiodical.com/2018/07/the-mathematical-beauty-of-the-game-set/)
 - [Demo-Man - Interactive gamedev tutorials](https://demoman.net/)*Trigonometry and vector mathematics in basic videogame development.*
  - [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
