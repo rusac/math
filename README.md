@@ -166,6 +166,7 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [The case for almost never turning left while driving - UPS](https://www.washingtonpost.com/news/innovations/wp/2014/04/09/the-case-for-almost-never-turning-left-while-driving/)
 - [Vehicle Routing Problem](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/)
+- [Boarding Airplanes - What is the fastest way?](https://www.cgpgrey.com/blog/whats-the-fastest-way-to-board-an-airplane)
 
 ### Vectors
 
