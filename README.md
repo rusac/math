@@ -87,6 +87,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
  - [The Mathematics of the Rubik’s CubeIntroduction to Group Theory and Permutation Puzzles](https://web.mit.edu/sp.268/www/rubik.pdf)
  - [Group Theory and the Rubik’s Cube - Janet Chen](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik%27s%20Cube.pdf)
  - [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
+ - [Unreal Engine Optimized Post-Effects](https://adriancourreges.com/blog/2018/12/02/ue4-optimized-post-effects/)
 
 ### Infinity
 
