@@ -220,6 +220,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 ### Books 
 http://linear.ups.edu/curriculum.html
 
+- [Home page for the book, Bayesian Data Analysis, by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. ](http://www.stat.columbia.edu/~gelman/book/)
+
 - [Open Logic Project - "*open-source, collaborative textbook of logic and formal methods, starting at an intermediate level, aimed at a non-mathematical audience.*"](http://openlogicproject.org/)
 
 ### Courses
