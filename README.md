@@ -300,6 +300,14 @@ http://linear.ups.edu/curriculum.html
 - [BigBlueButton - video conferencing](https://bigbluebutton.org/)
 - [Jitsi - video conferencing](https://jitsi.org/)
 
+### Proofs
+
+- [Proof Wiki](https://proofwiki.org/wiki/Main_Page)
+- [Math Counterexamples](http://www.mathcounterexamples.net/)
+
+### Problem Solving
+
+- [Problem Solving Repository](http://www.tricki.org/)
 
 ### Extra Resources (taken from r/learnmath):
 
