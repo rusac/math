@@ -274,6 +274,7 @@ http://linear.ups.edu/curriculum.html
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
 #### Graphs in LaTeX
 - [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/3d/)
+- [Graph examples - all types](https://awesomeopensource.com/project/walmes/Tikz)
 - [Commutative Diagrams in TikZ](http://jmilne.org/not/Mtikz.pdf)
 - [TikZ GUI editor](http://www.tikzedt.org/)
 - [Minimal TikZ - pdf guide](https://cremeronline.com/LaTeX/minimaltikz.pdf)
