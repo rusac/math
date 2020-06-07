@@ -70,6 +70,11 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 - [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) To quote the author of the guide in the link above: *"Digital Signal Processing is one of the most powerful technologies that will shape science and engineering in the twenty-first century. Revolutionary changes have already been made in a broad range of fields: communications, medical imaging, radar & sonar, high fidelity music reproduction, and oil prospecting, to name just a few. Each of these areas has developed a deep DSP technology, with its own algorithms, mathematics, and specialized techniques."*
 
+### Discrimination
+
+- [Jewish Problems](https://arxiv.org/abs/1110.1556) From the abstract:
+*"This is a special collection of problems that were given to select applicants during oral entrance exams to the math department of Moscow State University. These problems were designed to prevent Jews and other undesirables from getting a passing grade. Among problems that were used by the department to blackball unwanted candidate students, these problems are distinguished by having a simple solution that is difficult to find. Using problems with a simple solution protected the administration from extra complaints and appeals. This collection therefore has mathematical as well as historical value."* The author's website is here: http://www.tanyakhovanova.com/Coffins/coffinsmain.html
+
 ### Elections
 
 - [Arrow's Theorem (or: How I Learned to Stop Worrying and Love Dictatorships)](https://almostsurelymath.home.blog/2020/02/09/arrows-theorem-or-how-i-learned-to-stop-worrying-and-love-dictatorships/)
