@@ -105,6 +105,10 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 
 - [Cadaeic Cadenza - Writing poetry where each word-length denotes successive digits of pi](http://www.cadaeic.net/cadenza.htm)
 
+### Maps
+
+- [The topologist’s world map](https://tafc.space/qna/the-topologists-world-map/)
+
 ### Movies - Special Effects
 
 - [3D Modelling Techniques Worthy of an Oscar](https://news.artsci.utoronto.ca/all-news/our-community/oscar-goes-u-t-educated-graphics-whiz/) - *"Some of his early research focused on how to realistically depict “gaseous natural phenomena” like curling wisps of smoke, mist over a field or car exhaust while they react to a “turbulent field” like wind. His graphics, like a steaming cup of coffee, look simple in hindsight, but were anything but in the early 1990s.... His work on fast fluid flow computation in particular introduced techniques that were a breakthrough in visual fluid simulation and has deeply influenced dozens of researchers over the past 20 years."*
