@@ -177,6 +177,11 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [Vehicle Routing Problem](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/)
 - [Boarding Airplanes - What is the fastest way?](https://www.cgpgrey.com/blog/whats-the-fastest-way-to-board-an-airplane)
 
+### Trigonometry
+
+- [Apollo 11 implementation of trigonometric functions](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions#email-newsletter) *"This code was submitted by Margaret H. Hamilton (Programming Leader
+Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonometric functions essential for navigation on both the Command Module and Lunar Lander that ﬁrst landed humans on the Moon."*
+
 ### Vectors
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
