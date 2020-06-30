@@ -258,7 +258,7 @@ http://linear.ups.edu/curriculum.html
 - [Math Competitions Compilation](http://mathcompetitions.info/)
 - [Order of Operations - the  48/2(9+3)  question](https://math.berkeley.edu/~gbergman/misc/numbers/ord_ops.html)
 
-### LaTeX - Writing Papers in Mathematics and Using LaTeX
+## LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 - [Online LateX Editor - Overleaf](www.overleaf.com)
 - Cartesian grid how-to: https://tex.stackexchange.com/questions/222882/drawing-minimal-xy-axis
@@ -301,6 +301,13 @@ http://linear.ups.edu/curriculum.html
 #### Tables in LaTeX
 - [Tables Generator](http://www.tablesgenerator.com/)
 
+### Math In Literature, or somewhat tangentially related
+
+- [The Library of Babel - Borges]()
+- [The Aleph - Borges]()
+- [The Labyrinth - Borges]()
+- [The Last Question - Asimov]()
+- [The Nine Billion Names of God - Clarke]()
 
 ### Problems
 
