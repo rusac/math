@@ -239,6 +239,8 @@ http://linear.ups.edu/curriculum.html
 
 - [Open Logic Project - "*open-source, collaborative textbook of logic and formal methods, starting at an intermediate level, aimed at a non-mathematical audience.*"](http://openlogicproject.org/)
 
+- [Living Proof: Stories of Resilience Along the Mathematical Journey](http://www.ams.org/about-us/LivingProof.pdf)
+
 ### Courses
 
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm)
