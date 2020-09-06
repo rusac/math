@@ -1,15 +1,15 @@
 # Math - Where math is used
 
-### Algorithms
+## Algorithms
 
 - [How Reddit ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
 - [Recounting the Rationals - a process for listing all rational numbers](https://www.math.upenn.edu/~wilf/website/recounting.pdf)
 
-### Applications of Math to Real-World Problems
+## Applications of Math to Real-World Problems
 
 - [Real-world applications of mathematics, by arxiv subject area?](https://mathoverflow.net/questions/2556/real-world-applications-of-mathematics-by-arxiv-subject-area)
 
-### Art
+## Art
 
 - [Rafael Araujo on mathematical illustrations of nature](https://www.orbmag.com/visual-arts/rafael-araujo-on-mathematical-illustrations-of-nature/)
 
@@ -171,9 +171,9 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [Variance - Advancing the Science of Risk (Journal)](https://www.variancejournal.org/) - *"Variance is a peer-reviewed journal published by the Casualty Actuarial Society to disseminate work of interest to casualty actuaries worldwide. The focus of Variance is original practical and theoretical research in casualty actuarial science."*
 
-### Traffic
+## Traffic
 
-#### UPS
+### UPS
 - [The case for almost never turning left while driving - UPS](https://www.washingtonpost.com/news/innovations/wp/2014/04/09/the-case-for-almost-never-turning-left-while-driving/)
 - [Why UPS drivers don’t turn left and you probably shouldn’t either](https://theconversation.com/why-ups-drivers-dont-turn-left-and-you-probably-shouldnt-either-71432)
 
