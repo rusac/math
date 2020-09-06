@@ -173,7 +173,11 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 ### Traffic
 
+#### UPS
 - [The case for almost never turning left while driving - UPS](https://www.washingtonpost.com/news/innovations/wp/2014/04/09/the-case-for-almost-never-turning-left-while-driving/)
+- [Why UPS drivers don’t turn left and you probably shouldn’t either](https://theconversation.com/why-ups-drivers-dont-turn-left-and-you-probably-shouldnt-either-71432)
+
+
 - [Vehicle Routing Problem](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/)
 - [Boarding Airplanes - What is the fastest way?](https://www.cgpgrey.com/blog/whats-the-fastest-way-to-board-an-airplane)
 
