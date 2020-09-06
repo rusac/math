@@ -302,6 +302,7 @@ http://linear.ups.edu/curriculum.html
 - [Inkscape - draw program](https://inkscape.org/)
 #### Tables in LaTeX
 - [Tables Generator](http://www.tablesgenerator.com/)
+- [Controlling Table Columns in Latex](https://texblog.org/2019/06/03/control-the-width-of-table-columns-tabular-in-latex/)
 
 ### Math In Literature, or somewhat tangentially related
 
