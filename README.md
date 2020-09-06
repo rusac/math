@@ -13,13 +13,13 @@
 
 - [Rafael Araujo on mathematical illustrations of nature](https://www.orbmag.com/visual-arts/rafael-araujo-on-mathematical-illustrations-of-nature/)
 
-### Astronomy
+## Astronomy
 
 - [The Cosmic Distance Ladder - History of Measuring Distances to Heavenly Bodies](https://www.youtube.com/watch?v=7ne0GArfeMs&t=5m57s) - Terence Tao discusses how we have determined the distance to the moon, sun, planets, and so on, describing the mathematics and technology at each 'rung' of the ladder.
 
 - [Why Do Planets Have Elliptical Orbits](https://www.youtube.com/watch?v=xdIjYBtnvZU) - 3Blue1Brown explains using math why orbits are elliptical. A paper explaining the same argument is [here](http://www.cems.uvm.edu/~tlakoba/AppliedUGMath/auxpaper_planets_HallHigson.pdf). 
 
-### Biology
+## Biology
 
 - [Ants Estimate Area Using Buffon's Needle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1690598/pdf/10819145.pdf)
    - [Accuracy of Buffon's Needle](https://academic.oup.com/beheco/article/12/6/655/462588)
@@ -31,59 +31,59 @@
 - [The Chemical Basis of Morphogenesis - A.M.Turing (1952)](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
 - [Seashells: The plainness and beauty of their mathematical description - Jorge Picado](http://www.mat.uc.pt/~picado/conchas/eng/article.pdf)
 
-### Biomimicry
+## Biomimicry
 
 - [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
 - [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
 - [Slime Mold Grows Network Just Like Tokyo Rail System](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/)
 - [Water filter inspired by Alan Turing passes first test: Membrane's structure predicted in mathematician's lone biology paper](https://www.nature.com/articles/d41586-018-05055-7)
 
-### Business
+## Business
 
 - [Probability Models for Customer-BaseAnalysis](http://www.brucehardie.com/talks/ho_cba_tut_art_13.pdf) Paraphrased from the pdf: *"Faced with a customer transaction database, we may wish to determine: which customers are most likely to be active in the future; the level of transactions we could expect in future periods from those on the customer list, both individually and collectively; and–individual customer lifetime value."*
 
-### Coffee
+## Coffee
 
 - [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238519304102%3Fshowall%3Dtrue)
 
-### Complex Numbers
+## Complex Numbers
 
 - [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
 
 Quaternions are used for 'calculations involving three-dimensional rotations', such as in aeronautics and robotics. 
 
-### Computing
+## Computing
 
 - [A Mathematical Theory of Communication - C.E.Shannon](Shannon-MathematicalTheoryofCommunication.pdf)
 - [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 - [The Halting Problem](http://www.cgl.uwaterloo.ca/csk/halt/)
 
-### Cryptography
+## Cryptography
 
 - [Short discussion about the history of cryptography](https://boolesrings.org/mpawliuk/2013/03/24/kangaroo-contest-2013-talk-about-cryptography/)
 - [A Masked White-box Cryptographic Implementation for Protecting against Differential Computation Analysis - Seungkwang Lee (2017)](https://eprint.iacr.org/2017/267.pdf)
 - [Repository of various public white-box cryptographic implementations and their practical attacks](https://github.com/SideChannelMarvels/Deadpool)
 
-### Digital Signal Processing - Audio, Visual, and Other
+## Digital Signal Processing - Audio, Visual, and Other
 
 - [Audio-Visual Speech Separation - Separating Audio Tracks From Video](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html) *"People are remarkably good at focusing their attention on a particular person in a noisy environment, mentally “muting” all other voices and sounds. Known as the cocktail party effect, this capability comes natural to us humans. However, automatic speech separation — separating an audio signal into its individual speech sources — while a well-studied problem, remains a significant challenge for computers."* The paper can be found [here](https://arxiv.org/pdf/1804.03619.pdf).
 
 - [Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) To quote the author of the guide in the link above: *"Digital Signal Processing is one of the most powerful technologies that will shape science and engineering in the twenty-first century. Revolutionary changes have already been made in a broad range of fields: communications, medical imaging, radar & sonar, high fidelity music reproduction, and oil prospecting, to name just a few. Each of these areas has developed a deep DSP technology, with its own algorithms, mathematics, and specialized techniques."*
 
-### Discrimination
+## Discrimination
 
 - [Jewish Problems](https://arxiv.org/abs/1110.1556) From the abstract:
 *"This is a special collection of problems that were given to select applicants during oral entrance exams to the math department of Moscow State University. These problems were designed to prevent Jews and other undesirables from getting a passing grade. Among problems that were used by the department to blackball unwanted candidate students, these problems are distinguished by having a simple solution that is difficult to find. Using problems with a simple solution protected the administration from extra complaints and appeals. This collection therefore has mathematical as well as historical value."* The author's website is here: http://www.tanyakhovanova.com/Coffins/coffinsmain.html
 
-### Elections
+## Elections
 
 - [Arrow's Theorem (or: How I Learned to Stop Worrying and Love Dictatorships)](https://almostsurelymath.home.blog/2020/02/09/arrows-theorem-or-how-i-learned-to-stop-worrying-and-love-dictatorships/)
 
-### Elevator Logistics
+## Elevator Logistics
 
 - [Elevator Saga The elevator programming game](https://play.elevatorsaga.com/)
 
-### Games
+## Games
 
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://allenchou.net/2020/01/dot-product-projection-reflection/)
 - [The Mathematical Beauty of the Game SET](https://aperiodical.com/2018/07/the-mathematical-beauty-of-the-game-set/)
@@ -98,29 +98,29 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
  - [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
  - [Unreal Engine Optimized Post-Effects](https://adriancourreges.com/blog/2018/12/02/ue4-optimized-post-effects/)
 
-### Infinity
+## Infinity
 
 - [Infinity and the Mind](http://www.rudyrucker.com/infinityandthemind/)
 
-### Knots
+## Knots
 
 - [Knots - Mathematicians are devising new techniques to better predict how to tie strong knots that are useful in climbing and sailing](https://www.scientificamerican.com/article/color-changing-fibers-unravel-a-knotty-mystery/)
 
-### Literature
+## Literature
 
 - [Cadaeic Cadenza - Writing poetry where each word-length denotes successive digits of pi](http://www.cadaeic.net/cadenza.htm)
 
-### Maps
+## Maps
 
 - [The topologist’s world map](https://tafc.space/qna/the-topologists-world-map/)
 
-### Movies - Special Effects
+## Movies - Special Effects
 
 - [3D Modelling Techniques Worthy of an Oscar](https://news.artsci.utoronto.ca/all-news/our-community/oscar-goes-u-t-educated-graphics-whiz/) - *"Some of his early research focused on how to realistically depict “gaseous natural phenomena” like curling wisps of smoke, mist over a field or car exhaust while they react to a “turbulent field” like wind. His graphics, like a steaming cup of coffee, look simple in hindsight, but were anything but in the early 1990s.... His work on fast fluid flow computation in particular introduced techniques that were a breakthrough in visual fluid simulation and has deeply influenced dozens of researchers over the past 20 years."*
 
 - [Pixar - Online library](http://graphics.pixar.com/library/) - *Has many technical memos on CGI work.*
 
-### Networks - Social and Political Connections
+## Networks - Social and Political Connections
 
 - [Networks, Crowds, and Markets: Reasoning about a Highly Connected World (David Easley and Jon Kleinberg, CUP, 2010.](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch05.pdf) - The author writes: *"Here we describe a rich part of social network theory that involves taking a network and annotating its links (i.e., its edges) with positive and negative signs.  Positive links represent friendship while negative links represent antagonism, and an important problem in the study of social networks is to understand the tension between these two forces.."*
 The complete preprint is available on-line at http://www.cs.cornell.edu/home/kleinber/networks-book/.
@@ -129,33 +129,33 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [The Evolution of Trust](https://ncase.me/trust/)
 
-### Philosophy
+## Philosophy
 
 - [The 'Square of Opposition', a collection of logical relationships traditionally embodied in a square diagram.](https://plato.stanford.edu/entries/square/)
 
-### Programming
+## Programming
 
 - [Is the room open? Programming problem](https://www.noudaldenhoven.nl/wordpress/?p=288)
 
-### Physics
+## Physics
 
 - [A Collector of Math and Physics Surprises - Tadashi Tokieda](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 - [Gears](https://ciechanow.ski/)
 
-### Proofs
+## Proofs
 
 - [Book of Proof - Hammack](http://www.people.vcu.edu/%7Erhammack/BookOfProof/index.html)
 - [How to Read and Understand Proofs](https://boolesrings.org/mpawliuk/2014/03/31/how-to-read-understand-and-study-proofs/)
 
-### Science
+## Science
 
 - [What to do when you don’t trust your data anymore](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/)
 
-### Sound and Sine Waves
+## Sound and Sine Waves
 
 - [Encoding data in dubstep drops](https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops)
 
-### Statistics, data management, probability
+## Statistics, data management, probability
 
 - [Game Track - Covering the gaming market](https://www.ipsos.com/ipsos-mori/en-uk/gametrack)
 
@@ -173,22 +173,21 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 ## Traffic
 
-### UPS
+- [Vehicle Routing Problem](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/)
+- [Boarding Airplanes - What is the fastest way?](https://www.cgpgrey.com/blog/whats-the-fastest-way-to-board-an-airplane)
+UPS  
 - [The case for almost never turning left while driving - UPS](https://www.washingtonpost.com/news/innovations/wp/2014/04/09/the-case-for-almost-never-turning-left-while-driving/)
 - [Why UPS drivers don’t turn left and you probably shouldn’t either](https://theconversation.com/why-ups-drivers-dont-turn-left-and-you-probably-shouldnt-either-71432)
 
-
-- [Vehicle Routing Problem](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/)
-- [Boarding Airplanes - What is the fastest way?](https://www.cgpgrey.com/blog/whats-the-fastest-way-to-board-an-airplane)
-
-### Trigonometry
+## Trigonometry
 
 - [Apollo 11 implementation of trigonometric functions](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions#email-newsletter) *"This code was submitted by Margaret H. Hamilton (Programming Leader
 Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonometric functions essential for navigation on both the Command Module and Lunar Lander that ﬁrst landed humans on the Moon."*
 
-### Vectors
+## Vectors
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
+
 
 
 # Where not using math can cause problems
@@ -201,12 +200,12 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 
 # Recreational Mathematics
 
-### Puzzles
+## Puzzles
 
 - [Alex Bellos' Monday Puzzle - The Guardian](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
 - [Project Euler](http://projecteuler.net)
 
-### Math-related Games
+## Math-related Games
 
 - [A Slower Speed of Light ](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 - [Euclidea](http://euclidea.xyz)
@@ -219,7 +218,7 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - [Spacechem](http://www.zachtronics.com/spacechem/)
 - [Talos Principle](#null)
 
-### Making Drawings
+## Making Drawings
 
 - Escher
 - Dragon Curve
@@ -228,7 +227,7 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 
 # Math Resources
 
-### Biographies
+## Biographies
 
 - [An Evening with Leonhard Euler](https://www.youtube.com/watch?v=h-DV26x6n_Q)
 - [Fermat](#null)
@@ -236,7 +235,7 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
    - [Fermat's Last Theorem - The Theorem and Its Proof: An Exploration of Issues and Ideas [1993]](https://www.youtube.com/watch?v=6ymTZEeTjI8)
 - [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
 
-### Books 
+## Books 
 http://linear.ups.edu/curriculum.html
 
 - [Home page for the book, Bayesian Data Analysis, by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. ](http://www.stat.columbia.edu/~gelman/book/)
@@ -245,13 +244,13 @@ http://linear.ups.edu/curriculum.html
 
 - [Living Proof: Stories of Resilience Along the Mathematical Journey](http://www.ams.org/about-us/LivingProof.pdf)
 
-### Courses
+## Courses
 
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm)
 - [OpenStax](https://openstax.org/) - *Free textbooks for Algebra, Calculus, Statistics for highschool and undergraduate studies.*
 - [Introduction to probability, statistics, and random processes](https://www.probabilitycourse.com/)
 
-### High-School Resources
+## High-School Resources
 
 - [Calculus: Single Variable by Professor Robert Ghrist - video playlist](https://www.youtube.com/playlist?list=PLKc2XOQp0dMwj9zAXD5LlWpriIXIrGaNb)
 - [University of Waterloo Courseware for MHF and MCV](https://courseware.cemc.uwaterloo.ca/)
@@ -292,7 +291,7 @@ http://linear.ups.edu/curriculum.html
 - [TeXample.net](http://www.texample.net/)
 - [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
-#### Graphs in LaTeX
+### Graphs in LaTeX
 - [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/3d/)
 - [Graph examples - all types](https://awesomeopensource.com/project/walmes/Tikz)
 - [Commutative Diagrams in TikZ](http://jmilne.org/not/Mtikz.pdf)
@@ -304,11 +303,11 @@ http://linear.ups.edu/curriculum.html
 - [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
 - [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [Inkscape - draw program](https://inkscape.org/)
-#### Tables in LaTeX
+### Tables in LaTeX
 - [Tables Generator](http://www.tablesgenerator.com/)
 - [Controlling Table Columns in Latex](https://texblog.org/2019/06/03/control-the-width-of-table-columns-tabular-in-latex/)
 
-### Math In Literature, or somewhat tangentially related
+## Math In Literature, or somewhat tangentially related
 
 - [The Library of Babel - Borges]()
 - [The Aleph - Borges]()
@@ -316,12 +315,12 @@ http://linear.ups.edu/curriculum.html
 - [The Last Question - Asimov]()
 - [The Nine Billion Names of God - Clarke]()
 
-### Problems
+## Problems
 
 - [33 - Sum of cubes](https://www.reddit.com/r/math/comments/ayzy6s/33886612897528752838778405442862239327361114688070/)
 - [42 is the new 33](https://www.reddit.com/r/math/comments/b0b67v/42_is_the_new_33/)
 
-### Digital teaching presentation tools / resources:
+## Digital teaching presentation tools / resources:
 
 - [Xournall ++ Note taking Software](https://github.com/xournalpp/xournalpp)
 - [Using phone as document camera setup](https://mhenr18.github.io/improvised-document-camera/)
@@ -329,16 +328,16 @@ http://linear.ups.edu/curriculum.html
 - [BigBlueButton - video conferencing](https://bigbluebutton.org/)
 - [Jitsi - video conferencing](https://jitsi.org/)
 
-### Proofs
+## Proofs
 
 - [Proof Wiki](https://proofwiki.org/wiki/Main_Page)
 - [Math Counterexamples](http://www.mathcounterexamples.net/)
 
-### Problem Solving
+## Problem Solving
 
 - [Problem Solving Repository](http://www.tricki.org/)
 
-### Extra Resources (taken from r/learnmath):
+## Extra Resources (taken from r/learnmath):
 
 [Khan Academy](https://www.khanacademy.org/)
 
