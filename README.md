@@ -190,12 +190,13 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 
 
 
-# Where not using math can cause problems
+# Where not using math, or using math poorly, can cause problems
 
 - [Spain builds submarine 70 tons too heavy after putting a decimal in the wrong place](https://o.canada.com/news/spain-builds-submarine-70-tons-too-heavy)
 - [Nov. 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
 - [Upside-Down Sensors Toppled Russian Rocket](https://www.wired.com/2010/11/1110mars-climate-observer-report/)
 - [What Happens When Maths Goes Wrong? with Matt Parker](https://www.youtube.com/watch?v=6JwEYamjXpA) - *"You can find any pattern you want to any level of precision you want as long as you're prepared to ignore enough data."*
+- [Beyond Reasonable Doubt - The Story of Sally Clark (Bayes' Theorem used in court case)](https://plus.maths.org/content/beyond-reasonable-doubt)
 
 
 # Recreational Mathematics
