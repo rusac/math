@@ -175,7 +175,6 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [Vehicle Routing Problem](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/)
 - [Boarding Airplanes - What is the fastest way?](https://www.cgpgrey.com/blog/whats-the-fastest-way-to-board-an-airplane)
-UPS  
 - [The case for almost never turning left while driving - UPS](https://www.washingtonpost.com/news/innovations/wp/2014/04/09/the-case-for-almost-never-turning-left-while-driving/)
 - [Why UPS drivers don’t turn left and you probably shouldn’t either](https://theconversation.com/why-ups-drivers-dont-turn-left-and-you-probably-shouldnt-either-71432)
 
@@ -304,6 +303,10 @@ http://linear.ups.edu/curriculum.html
 - [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
 - [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [Inkscape - draw program](https://inkscape.org/)
+### Online Live Latex
+- [MathB.in - Share mathematics on the web](http://mathb.in/)
+- [LateX Base - Online Editor and Compiler](https://latexbase.com/)
+
 ### Tables in LaTeX
 - [Tables Generator](http://www.tablesgenerator.com/)
 - [Controlling Table Columns in Latex](https://texblog.org/2019/06/03/control-the-width-of-table-columns-tabular-in-latex/)
