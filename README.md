@@ -209,7 +209,9 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 
 - [A Slower Speed of Light ](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 - [Euclidea](http://euclidea.xyz)
+- [Factorio](https://www.factorio.com/)
 - [HyperRogue](http://roguetemple.com/z/hyper/)
+- [Jelly no Puzzle](https://avorobey.github.io/jelly/?1)
 - [Kerbal Space Program](#null)
 - [Manufactoria](http://pleasingfungus.com/Manufactoria/)
 - [Miegakure](http://miegakure.com)
