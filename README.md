@@ -307,6 +307,8 @@ http://linear.ups.edu/curriculum.html
 - [Inkscape - draw program](https://inkscape.org/)
 - [SageMath Open Source Graphing Program](https://www.sagemath.org/)
 - [Asymptote - Vector Graphics Program](https://asymptote.sourceforge.io/)
+- [PSTricks - Gallery](http://tug.org/PSTricks/main.cgi?file=Examples/Gallery/Gallery)
+- [Ipe extensible drawing editor](http://ipe.otfried.org/)
 
 ### Online Live Latex
 - [MathB.in - Share mathematics on the web](http://mathb.in/)
