@@ -305,6 +305,9 @@ http://linear.ups.edu/curriculum.html
 - [Draw.io](https://www.draw.io/) *For scatterplots, flowcharts, etc.*
 - [MetaPost](https://www.tug.org/metapost.html) *The MetaPost system implements a picture-drawing language that...outputs vector graphic files instead of run-length-encoded bitmaps; output formats available are PostScript and SVG.*
 - [Inkscape - draw program](https://inkscape.org/)
+- [SageMath Open Source Graphing Program](https://www.sagemath.org/)
+- [Asymptote - Vector Graphics Program](https://asymptote.sourceforge.io/)
+
 ### Online Live Latex
 - [MathB.in - Share mathematics on the web](http://mathb.in/)
 - [LateX Base - Online Editor and Compiler](https://latexbase.com/)
