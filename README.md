@@ -78,7 +78,8 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 ## Elections
 
 - [Arrow's Theorem (or: How I Learned to Stop Worrying and Love Dictatorships)](https://almostsurelymath.home.blog/2020/02/09/arrows-theorem-or-how-i-learned-to-stop-worrying-and-love-dictatorships/)
-### Gerrymandering:
+
+Gerrymandering:
 - [You can’t tell a gerrymandered district by its shape](https://news.osu.edu/you-cant-tell-a-gerrymandered-district-by-its-shape/)
 - [An impossibility theorem for gerrymandering](https://dustingmixon.wordpress.com/2017/10/11/an-impossibility-theorem-for-gerrymandering/)
 
