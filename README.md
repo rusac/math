@@ -329,6 +329,7 @@ http://linear.ups.edu/curriculum.html
 - [The Labyrinth - Borges]()
 - [The Last Question - Asimov]()
 - [The Nine Billion Names of God - Clarke]()
+- [Mathematical Fiction - Chronological list](http://kasmana.people.cofc.edu/MATHFICT/mfbrowse-pubyear.php)
 
 ## Problems
 
