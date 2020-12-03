@@ -269,6 +269,9 @@ http://linear.ups.edu/curriculum.html
 - [Math Competitions Compilation](http://mathcompetitions.info/)
 - [Order of Operations - the  48/2(9+3)  question](https://math.berkeley.edu/~gbergman/misc/numbers/ord_ops.html)
 - [NZQA - New Zealand Qualifications Authority - Calculus Exams](https://www.nzqa.govt.nz/qualifications-standards/awards/new-zealand-scholarship/scholarship-subjects/scholarship-mathematics-with-calculus/)
+- [MS Croggs Advent Calendar](https://www.mscroggs.co.uk/)
+- [Advent of Code - programming challenge](https://adventofcode.com/)
+- [Chalkdust Magazine](https://chalkdustmagazine.com/)
 
 ## LaTeX - Writing Papers in Mathematics and Using LaTeX
 
