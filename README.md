@@ -231,6 +231,7 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - Dragon Curve
 - Golden Spiral
 - Appolonian Gasket, Serpinski Triangle, etc
+- [Barnsley Fern](https://en.wikipedia.org/wiki/Barnsley_fern)
 
 # Math Resources
 
