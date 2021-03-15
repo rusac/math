@@ -57,6 +57,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [A Mathematical Theory of Communication - C.E.Shannon](Shannon-MathematicalTheoryofCommunication.pdf)
 - [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 - [The Halting Problem](http://www.cgl.uwaterloo.ca/csk/halt/)
+- [Computational capacity of the universe](https://arxiv.org/pdf/quant-ph/0110141.pdf)
 
 ## Cryptography
 
