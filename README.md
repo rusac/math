@@ -37,6 +37,7 @@
 - [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
 - [Slime Mold Grows Network Just Like Tokyo Rail System](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/)
 - [Water filter inspired by Alan Turing passes first test: Membrane's structure predicted in mathematician's lone biology paper](https://www.nature.com/articles/d41586-018-05055-7)
+- [Soldier Crab Logic Gate](https://arxiv.org/pdf/1204.1749.pdf) Abstract: *Soldier crabsMictyris guinotaeexhibit pronounced swarming be-haviour.   The  swarms  of  the  crabs  tolerant  of  perturbations.   In  computermodels  and  laboratory  experiments  we  demonstrate  that  swarms  of  soldiercrabs can implement logical gates when placed in a geometrically constrainedenvironment.*
 
 ## Business
 
