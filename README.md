@@ -37,7 +37,7 @@
 - [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
 - [Slime Mold Grows Network Just Like Tokyo Rail System](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/)
 - [Water filter inspired by Alan Turing passes first test: Membrane's structure predicted in mathematician's lone biology paper](https://www.nature.com/articles/d41586-018-05055-7)
-- [Soldier Crab Logic Gate](https://arxiv.org/pdf/1204.1749.pdf) Abstract: *Soldier crabsMictyris guinotaeexhibit pronounced swarming be-haviour.   The  swarms  of  the  crabs  tolerant  of  perturbations.   In  computermodels  and  laboratory  experiments  we  demonstrate  that  swarms  of  soldiercrabs can implement logical gates when placed in a geometrically constrainedenvironment.*
+- [Soldier Crab Logic Gate](https://arxiv.org/pdf/1204.1749.pdf) Abstract: *Soldier crabs Mictyris guinotae exhibit pronounced swarming behaviour. The  swarms  of  the  crabs  tolerant  of  perturbations. In  computer models  and  laboratory  experiments  we  demonstrate  that  swarms  of  soldier crabs can implement logical gates when placed in a geometrically constrained environment.*
 
 ## Business
 
@@ -59,7 +59,7 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 - [The Halting Problem](http://www.cgl.uwaterloo.ca/csk/halt/)
 - [Computational capacity of the universe](https://arxiv.org/pdf/quant-ph/0110141.pdf)
-- [The Maniac 1](https://en.wikipedia.org/wiki/MANIAC_I)*"The MANIAC I (Mathematical Analyzer Numerical Integrator and Automatic Computer Model I)[1][2] was an early computer built under the direction of Nicholas Metropolis at the Los Alamos Scientific Laboratory."*
+- [The Maniac 1](https://en.wikipedia.org/wiki/MANIAC_I)*"The MANIAC I (Mathematical Analyzer Numerical Integrator and Automatic Computer Model I) was an early computer built under the direction of Nicholas Metropolis at the Los Alamos Scientific Laboratory."*
 - [The Maniac 1 - computer manual](http://www.bitsavers.org/pdf/lanl/LA-1725_The_MANIAC_Jul54.pdf)
 
 ## Cryptography
