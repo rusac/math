@@ -58,6 +58,8 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 - [The Halting Problem](http://www.cgl.uwaterloo.ca/csk/halt/)
 - [Computational capacity of the universe](https://arxiv.org/pdf/quant-ph/0110141.pdf)
+- [The Maniac 1](https://en.wikipedia.org/wiki/MANIAC_I)*"The MANIAC I (Mathematical Analyzer Numerical Integrator and Automatic Computer Model I)[1][2] was an early computer built under the direction of Nicholas Metropolis at the Los Alamos Scientific Laboratory."*
+- [The Maniac 1 - computer manual](http://www.bitsavers.org/pdf/lanl/LA-1725_The_MANIAC_Jul54.pdf)
 
 ## Cryptography
 
@@ -93,15 +95,15 @@ Gerrymandering:
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://allenchou.net/2020/01/dot-product-projection-reflection/)
 - [The Mathematical Beauty of the Game SET](https://aperiodical.com/2018/07/the-mathematical-beauty-of-the-game-set/)
 - [Demo-Man - Interactive gamedev tutorials](https://demoman.net/)*Trigonometry and vector mathematics in basic videogame development.*
- - [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
- - [Pysically Based Rendering - From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
- - [Ray Tracing Essentials Part 1: Basics of Ray Tracing](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) 
- - [Rubik's Cube - God's Number is 20](https://www.cube20.org/)
- - [Rubik's Cube - UWaterloo pdf](https://www.math.uwaterloo.ca/~malacroi/slides/CubeTalk.pdf)
- - [The Mathematics of the Rubik’s CubeIntroduction to Group Theory and Permutation Puzzles](https://web.mit.edu/sp.268/www/rubik.pdf)
- - [Group Theory and the Rubik’s Cube - Janet Chen](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik%27s%20Cube.pdf)
- - [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
- - [Unreal Engine Optimized Post-Effects](https://adriancourreges.com/blog/2018/12/02/ue4-optimized-post-effects/)
+- [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
+- [Pysically Based Rendering - From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
+- [Ray Tracing Essentials Part 1: Basics of Ray Tracing](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) 
+- [Rubik's Cube - God's Number is 20](https://www.cube20.org/)
+- [Rubik's Cube - UWaterloo pdf](https://www.math.uwaterloo.ca/~malacroi/slides/CubeTalk.pdf)
+- [The Mathematics of the Rubik’s CubeIntroduction to Group Theory and Permutation Puzzles](https://web.mit.edu/sp.268/www/rubik.pdf)
+- [Group Theory and the Rubik’s Cube - Janet Chen](http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik%27s%20Cube.pdf)
+- [Three Statistical Tests Every Game Developer Should Know](https://www.youtube.com/watch?v=fl9V0U2SGeI)
+- [Unreal Engine Optimized Post-Effects](https://adriancourreges.com/blog/2018/12/02/ue4-optimized-post-effects/)
 
 ## Infinity
 
