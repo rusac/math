@@ -264,6 +264,8 @@ http://linear.ups.edu/curriculum.html
 
 ## High-School Resources
 
+- [Book of Proof (Hammack)](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+- [Discrete Mathematics: An Open Introduction (Levin)](http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
 - [Calculus: Single Variable by Professor Robert Ghrist - video playlist](https://www.youtube.com/playlist?list=PLKc2XOQp0dMwj9zAXD5LlWpriIXIrGaNb)
 - [University of Waterloo Courseware for MHF and MCV](https://courseware.cemc.uwaterloo.ca/)
 - [University of Cambridge - STEP Math Exam Preparation](https://stepdatabase.maths.org/)
