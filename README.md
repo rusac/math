@@ -261,6 +261,7 @@ http://linear.ups.edu/curriculum.html
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm)
 - [OpenStax](https://openstax.org/) - *Free textbooks for Algebra, Calculus, Statistics for highschool and undergraduate studies.*
 - [Introduction to probability, statistics, and random processes](https://www.probabilitycourse.com/)
+- [Statistics 110: Probability - Blitzstein](https://projects.iq.harvard.edu/stat110/home)
 
 ## High-School Resources
 
