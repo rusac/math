@@ -228,6 +228,8 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - [Portal](#null)
 - [Spacechem](http://www.zachtronics.com/spacechem/)
 - [Talos Principle](#null)
+- [Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
+- [other suggestions-redditthread](https://www.reddit.com/r/math/comments/pu37my/what_mathy_games_are_interesting_and_fun_to_play/)
 
 ## Making Drawings
 
