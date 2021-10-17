@@ -362,6 +362,8 @@ http://linear.ups.edu/curriculum.html
 
 ## Proofs
 
+- [How to Prove It - Velleman (full pdf)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
+- [Mathematical Expression and Reasoning for Computer Science](https://www.cs.toronto.edu/~david/course-notes/csc165.pdf)
 - [Proof Wiki](https://proofwiki.org/wiki/Main_Page)
 - [Math Counterexamples](http://www.mathcounterexamples.net/)
 
