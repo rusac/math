@@ -328,6 +328,9 @@ http://linear.ups.edu/curriculum.html
 - [Asymptote - Vector Graphics Program](https://asymptote.sourceforge.io/)
 - [PSTricks - Gallery](http://tug.org/PSTricks/main.cgi?file=Examples/Gallery/Gallery)
 - [Ipe extensible drawing editor](http://ipe.otfried.org/)
+- [Free-hand graphing - can do with stylus and convert to latex](https://homepages.inf.ed.ac.uk/cheunen/freetikz/freetikz.html)
+- [Clear basic steps to starting a cartesian graph](https://latexdraw.com/plot-tikz-easy-steps/)
+- [Grid-based diagram maker](https://app.diagrams.net/)
 
 ### Online Live Latex
 - [MathB.in - Share mathematics on the web](http://mathb.in/)
