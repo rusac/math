@@ -402,6 +402,7 @@ Misc Advice:
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7)
 - [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 - [Linear Algebra - Jim Hefferon](https://hefferon.net/linearalgebra)
+- [Introduction to Probability for Data Science](https://probability4datascience.com/)
 
 ## Math Video Series
 - [How to sum quadrillions of powers ... by hand! (Euler-Maclaurin formula - Mathologer)](https://www.youtube.com/watch?v=fw1kRz83Fj0&feature=youtu.be)
