@@ -254,10 +254,9 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 http://linear.ups.edu/curriculum.html
 
 - [Home page for the book, Bayesian Data Analysis, by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. ](http://www.stat.columbia.edu/~gelman/book/)
-
 - [Open Logic Project - "*open-source, collaborative textbook of logic and formal methods, starting at an intermediate level, aimed at a non-mathematical audience.*"](http://openlogicproject.org/)
-
 - [Living Proof: Stories of Resilience Along the Mathematical Journey](http://www.ams.org/about-us/LivingProof.pdf)
+- [Various books for all levels - latex formatted](https://pretextbook.org/catalog.html)
 
 ## Courses
 
