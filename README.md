@@ -306,6 +306,7 @@ http://linear.ups.edu/curriculum.html
 - [The Comprehensive LaTeX Symbol List](http://ftp.math.purdue.edu/mirrors/ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
     *338 page PDF with over 500 tables; when they say comprehensive, they mean comprehensive.*
 ### Graphs in LaTeX
+- [Latex to SVG - useful for exporting images with transparent backgrounds](https://viereck.ch/latex-to-svg/)
 - Cartesian grid how-to: https://tex.stackexchange.com/questions/222882/drawing-minimal-xy-axis
    - https://tex.stackexchange.com/questions/142120/positioning-of-pgfplot-axis-labels
    - https://tex.stackexchange.com/questions/369929/label-pgfplot-axes-tikz
