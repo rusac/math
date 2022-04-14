@@ -403,7 +403,9 @@ Misc Advice:
 - [Linear Algebra - Jim Hefferon](https://hefferon.net/linearalgebra)
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
 
-## Math Video Series
+## Math Video Series and Courses
+- [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra - Gilbert Strang MIT 18.06SC](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [How to sum quadrillions of powers ... by hand! (Euler-Maclaurin formula - Mathologer)](https://www.youtube.com/watch?v=fw1kRz83Fj0&feature=youtu.be)
 - [Project Mathematics -](https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT)*The “Project MATHEMATICS!” video series explore basic topics in high school mathematics in ways that cannot be done at the chalkboard or in a textbook. They bring mathematics to life with imaginative computer animation, live action, music, special effects, and a sense of humor. The videos were animated by James F. Blinn, and produced by Professor Tom M. Apostol at the California Institute of Technology, Caltech, in Pasadena, CA.*
 - [Calculus of Complex Variables, Differential Equations, and Linear Algebra: Herbert Gross (MIT Open Courseware) - ](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448&index=1) 
