@@ -239,6 +239,9 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - Golden Spiral
 - Appolonian Gasket, Serpinski Triangle, etc
 - [Barnsley Fern](https://en.wikipedia.org/wiki/Barnsley_fern)
+- [One-line drawings using CLIPasso](https://clipasso.github.io/clipasso/)
+   - [install inside docker environment](https://github.com/yael-vinker/CLIPasso)
+   - [another example using imagemagick and autotrace](https://schollz.com/blog/one-line/)
 
 # Math Resources
 
