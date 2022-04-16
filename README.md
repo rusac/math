@@ -242,6 +242,10 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - [One-line drawings using CLIPasso](https://clipasso.github.io/clipasso/)
    - [install inside docker environment](https://github.com/yael-vinker/CLIPasso)
    - [another example using imagemagick and autotrace](https://schollz.com/blog/one-line/)
+   - temporary: (install docker to drive with lots of space to begin with)
+   - sudo docker system df (-v to view more info about size taken)
+   - sudo docker prune
+   - sudo docker system prune
 
 # Math Resources
 
