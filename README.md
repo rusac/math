@@ -248,6 +248,9 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
    - sudo docker system prune
    - https://www.guguweb.com/2019/02/07/how-to-move-docker-data-directory-to-another-location-on-ubuntu/
    - docker pull yaelvinker/clipasso_docker:latest
+   - docker ps (to list active docker containers)
+   - docker cp host_source_path container:destination_path 
+   - docker cp container:source_path host_destination_path
 
 # Math Resources
 
