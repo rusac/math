@@ -315,6 +315,10 @@ http://linear.ups.edu/curriculum.html
 - [Powerdot - a presentation class for latex](https://www.ctan.org/pkg/powerdot)
 - [Alternatives to beamer](https://tex.stackexchange.com/questions/27267/which-alternatives-to-the-beamer-class-exist)
 
+### Fonts in Latex
+- [Font catalogue](https://tug.org/FontCatalogue/alphfonts.html)
+- [Changing font size](https://latex-tutorial.com/changing-font-size/)
+
 ### Graphs in LaTeX
 - [Latex to SVG - useful for exporting images with transparent backgrounds](https://viereck.ch/latex-to-svg/)
 - Cartesian grid how-to: https://tex.stackexchange.com/questions/222882/drawing-minimal-xy-axis
