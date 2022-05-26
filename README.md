@@ -262,6 +262,12 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
    - [Fermat's Last Theorem - The Theorem and Its Proof: An Exploration of Issues and Ideas [1993]](https://www.youtube.com/watch?v=6ymTZEeTjI8)
 - [J. von Neumann](https://qualiacomputing.com/2018/06/21/john-von-neumann/)
 
+## Blogs and Magazines
+
+- [Eureka magazine](https://www.archim.org.uk/eureka/archive/)
+- [Tanya Khovanova blog](https://blog.tanyakhovanova.com/)
+- [How to create a better research poster](https://www.youtube.com/watch?v=SYk29tnxASs)
+
 ## Books 
 http://linear.ups.edu/curriculum.html
 
