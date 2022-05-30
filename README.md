@@ -302,6 +302,24 @@ http://linear.ups.edu/curriculum.html
 - [Advent of Code - programming challenge](https://adventofcode.com/)
 - [Chalkdust Magazine](https://chalkdustmagazine.com/)
 
+## Calculus Intro Resources
+Vi Hart:
+https://www.youtube.com/watch?v=pI62ANEGK6Q
+https://www.youtube.com/watch?v=3zQsYJi5pFE
+
+Grant Sanderson:
+https://www.3blue1brown.com/topics/calculus
+
+Steve Strogatz (“explain to a high school student”):
+https://www.stevenstrogatz.com/books/infinite-powers
+
+“Explain like you are a first-year taking an intro course”:
+http://www.science.smith.edu/%7Ecallahan/intromine.html
+http://www.science.smith.edu/%7Ecallahan/cic/ch1.pdf
+http://www.science.smith.edu/%7Ecallahan/cic/ch2.pdf
+http://www.science.smith.edu/%7Ecallahan/cic/ch3.pdf
+http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
+
 ## LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 ### Online Live Latex
