@@ -218,6 +218,7 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 ## Math-related Games
 
 - [A Slower Speed of Light ](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
+- [ChemWorks - browser game](https://nonotcar.itch.io/chemworks)
 - [Euclidea](http://euclidea.xyz)
 - [Factorio](https://www.factorio.com/)
 - [HyperRogue](http://roguetemple.com/z/hyper/)
