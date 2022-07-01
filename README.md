@@ -322,6 +322,16 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch2.pdf
 http://www.science.smith.edu/%7Ecallahan/cic/ch3.pdf
 http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 
+## Proofs
+
+- [How to Prove It - Velleman (full pdf)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
+- [Mathematical Expression and Reasoning for Computer Science](https://www.cs.toronto.edu/~david/course-notes/csc165.pdf)
+- [Proof Wiki](https://proofwiki.org/wiki/Main_Page)
+- [Math Counterexamples](http://www.mathcounterexamples.net/)
+
+## Problem Solving
+- [Problem Solving Repository](http://www.tricki.org/)
+
 ## LaTeX - Writing Papers in Mathematics and Using LaTeX
 
 ### Online Live Latex
@@ -334,7 +344,6 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 
 
 ## Math In Literature, or somewhat tangentially related
-
 - [The Library of Babel - Borges]()
 - [The Aleph - Borges]()
 - [The Labyrinth - Borges]()
@@ -342,29 +351,16 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 - [The Nine Billion Names of God - Clarke]()
 - [Mathematical Fiction - Chronological list](http://kasmana.people.cofc.edu/MATHFICT/mfbrowse-pubyear.php)
 
-## Problems
-
-- [33 - Sum of cubes](https://www.reddit.com/r/math/comments/ayzy6s/33886612897528752838778405442862239327361114688070/)
-- [42 is the new 33](https://www.reddit.com/r/math/comments/b0b67v/42_is_the_new_33/)
-
 ## Digital teaching presentation tools / resources:
-
 - [Xournall ++ Note taking Software](https://github.com/xournalpp/xournalpp)
 - [Using phone as document camera setup](https://mhenr18.github.io/improvised-document-camera/)
 - use Simple Screen Recorder to record work on screen
 - [BigBlueButton - video conferencing](https://bigbluebutton.org/)
 - [Jitsi - video conferencing](https://jitsi.org/)
 
-## Proofs
 
-- [How to Prove It - Velleman (full pdf)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
-- [Mathematical Expression and Reasoning for Computer Science](https://www.cs.toronto.edu/~david/course-notes/csc165.pdf)
-- [Proof Wiki](https://proofwiki.org/wiki/Main_Page)
-- [Math Counterexamples](http://www.mathcounterexamples.net/)
 
-## Problem Solving
 
-- [Problem Solving Repository](http://www.tricki.org/)
 
 ## Extra Resources (taken from r/learnmath):
 
