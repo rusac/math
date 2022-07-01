@@ -332,17 +332,6 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 ## Problem Solving
 - [Problem Solving Repository](http://www.tricki.org/)
 
-## LaTeX - Writing Papers in Mathematics and Using LaTeX
-
-### Online Live Latex
-- [Online LateX Editor - Overleaf](www.overleaf.com)
-- [MathB.in - Share mathematics on the web](http://mathb.in/)
-- [LateX Base - Online Editor and Compiler](https://latexbase.com/)
-
-### Latex installs for offline
-- [TeXstudio - Latex Editor (all platforms)](https://www.texstudio.org/)
-
-
 ## Math In Literature, or somewhat tangentially related
 - [The Library of Babel - Borges]()
 - [The Aleph - Borges]()
