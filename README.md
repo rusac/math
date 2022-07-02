@@ -322,6 +322,10 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch2.pdf
 http://www.science.smith.edu/%7Ecallahan/cic/ch3.pdf
 http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 
+## Logic
+
+-[Open Logic Project Builds](https://builds.openlogicproject.org/)
+
 ## Proofs
 
 - [How to Prove It - Velleman (full pdf)](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
