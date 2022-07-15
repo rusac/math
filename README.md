@@ -1,5 +1,9 @@
 # Math - Where math is used
 
+## Agriculture
+
+- [Normalized Difference Vegetation Index](https://gisgeography.com/ndvi-normalized-difference-vegetation-index/) -*"Normalized Difference Vegetation Index (NDVI) quantifies vegetation by measuring the difference between near-infrared (which vegetation strongly reflects) and red light (which vegetation absorbs).... We see several sectors using NDVI. For example, in agriculture, farmers use NDVI for precision farming and to measure biomass. Whereas, in forestry, foresters use NDVI to quantify forest supply and leaf area index. Furthermore, NASA states that NDVI is a good indicator of drought. When water limits vegetation growth, it has a lower relative NDVI and density of vegetation."*
+
 ## Algorithms
 
 - [How Reddit ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
