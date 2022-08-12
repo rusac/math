@@ -38,6 +38,7 @@
 ## Biomimicry
 
 - [Geckos - Researchers built a gecko-bot to study how geckos glide and crash land](https://arstechnica.com/science/2021/12/researchers-built-a-gecko-bot-to-study-how-geckos-glide-and-crash-land/)
+- [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
 - [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
 - [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
 - [Slime Mold Grows Network Just Like Tokyo Rail System](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/)
