@@ -221,10 +221,11 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 
 # Recreational Mathematics
 
-## Puzzles
+## Puzzles and random problems
 
 - [Alex Bellos' Monday Puzzle - The Guardian](https://www.theguardian.com/science/series/alex-bellos-monday-puzzle)
 - [Project Euler](http://projecteuler.net)
+- [Mathematics Problems and Warm-ups](http://www.geom.uiuc.edu/~lori/mathed/problems/problist.html)
 
 ## Math-related Games
 
