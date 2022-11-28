@@ -140,6 +140,10 @@ Gerrymandering:
 
 - [Pixar - Online library](http://graphics.pixar.com/library/) - *Has many technical memos on CGI work.*
 
+## Navigation
+
+- [GPS - details on how it works](https://ciechanow.ski/gps/)
+
 ## Networks - Social and Political Connections
 
 - [Networks, Crowds, and Markets: Reasoning about a Highly Connected World (David Easley and Jon Kleinberg, CUP, 2010.](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch05.pdf) - The author writes: *"Here we describe a rich part of social network theory that involves taking a network and annotating its links (i.e., its edges) with positive and negative signs.  Positive links represent friendship while negative links represent antagonism, and an important problem in the study of social networks is to understand the tension between these two forces.."*
