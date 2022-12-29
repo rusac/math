@@ -318,6 +318,7 @@ http://linear.ups.edu/curriculum.html
 - [MS Croggs Advent Calendar](https://www.mscroggs.co.uk/)
 - [Advent of Code - programming challenge](https://adventofcode.com/)
 - [Chalkdust Magazine](https://chalkdustmagazine.com/)
+- [Numbers Aplenty - interesting ways of calculating any given natural number](https://www.numbersaplenty.com/2023)
 
 ## Calculus Intro Resources
 Vi Hart:
