@@ -158,6 +158,10 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [The 'Square of Opposition', a collection of logical relationships traditionally embodied in a square diagram.](https://plato.stanford.edu/entries/square/)
 
+## Prime Numbers
+
+- [Submarine Secrets: Pump Jets And Propellers Explained](https://www.youtube.com/watch?v=ugSEIiTZ1Pg) - *From a comment on hackernews: "IIRC submarine screws use prime-numbered blades (5, 7, 9) to cut down on harmonics." Try to find a better source.*
+
 ## Programming
 
 - [Is the room open? Programming problem](https://www.noudaldenhoven.nl/wordpress/?p=288)
