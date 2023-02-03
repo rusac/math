@@ -98,6 +98,12 @@ Gerrymandering:
 
 - [Elevator Saga The elevator programming game](https://play.elevatorsaga.com/)
 
+## Engineering
+
+- [PID controller](https://en.wikipedia.org/wiki/PID_controller) *"A proportional–integral–derivative controller (PID controller or three-term controller) is a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control. A PID controller continuously calculates an error value e ( t ) e(t) as the difference between a desired setpoint (SP) and a measured process variable (PV) and applies a correction based on proportional, integral, and derivative terms (denoted P, I, and D respectively), hence the name.
+
+In practical terms, PID automatically applies an accurate and responsive correction to a control function. An everyday example is the cruise control on a car, where ascending a hill would lower speed if constant engine power were applied. The controller's PID algorithm restores the measured speed to the desired speed with minimal delay and overshoot by increasing the power output of the engine in a controlled manner. "*
+
 ## Games
 
 - [Dobble - The Mind-Bending Math Behind Spot It!](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
