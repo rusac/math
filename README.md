@@ -165,6 +165,8 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 ## Programming
 
 - [Is the room open? Programming problem](https://www.noudaldenhoven.nl/wordpress/?p=288)
+- [From math to machine: translating a function to machine code](https://blog.briansteffens.com/2017/02/20/from-math-to-machine.html) -*The author writes: "In this post I'm going to explore how a mathematical concept can be redefined in progressively more computer-oriented terms, all the way from high level languages down to machine code, ready for direct execution by a computer."*
+- [Math Breakdown: Anime Homing Missiles](https://blog.littlepolygon.com/posts/missile/)
 
 ## Physics
 
