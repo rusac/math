@@ -238,6 +238,11 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - [Beyond Reasonable Doubt - The Story of Sally Clark (Bayes' Theorem used in court case)](https://plus.maths.org/content/beyond-reasonable-doubt)
 - [Honda Needs a Tune-Up](http://davidsd.org/2008/12/honda-needs-a-tune-up/) *- "A musical road that Honda built in Lancaster, CA.. A team of engineers carved some grooves into a highway that were carefully spaced to play the William Tell Overture as you drive over them at a constant speed."*
 
+# Math prep, studying, etc
+
+- [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+- [Study shows stronger brain activity after writing on paper than on tablet or smartphone](https://www.sciencedaily.com/releases/2021/03/210319080820.htm)
+- General strategies: regular practice (homework), collaboration, revising/summarizing notes, mind-maps and cue-cards, etc.
 
 # Recreational Mathematics
 
