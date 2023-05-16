@@ -318,6 +318,7 @@ http://linear.ups.edu/curriculum.html
 
 - [Alberta High School Math Competition](https://www.ualberta.ca/mathematical-and-statistical-sciences/outreach/alberta-high-school-math-competition/past-questions-solutions.html)
 - [AMC 10/12](https://www.maa.org/math-competitions/amc-1012)
+- [CEMC - University of Waterloo](https://www.cemc.uwaterloo.ca/contests/contests.html)
 - [CMO - Canadian Mathematical Olympiads](https://cms.math.ca/competitions/cmo/)*Scroll down for past problem sets*
 - [Canadian Open Mathematics Challenge (COMC)](https://cms.math.ca/competitions/comc/)
 - [COMC Problem of the Week](https://www2.cms.math.ca/Competitions/COMC/2022/potw.html)
