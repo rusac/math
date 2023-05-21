@@ -386,6 +386,7 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 - [Problem Solving Repository](http://www.tricki.org/)
 
 ## Math In Literature, or somewhat tangentially related
+- [Funes, The Memorious - Borges](https://www.sas.upenn.edu/~cavitch/pdf-library/Borges_FunesTheMemorious.pdf)
 - [The Library of Babel - Borges]()
 - [The Aleph - Borges]()
 - [The Labyrinth - Borges]()
