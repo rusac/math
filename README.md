@@ -395,6 +395,12 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 - [The Nine Billion Names of God - Clarke]()
 - [Mathematical Fiction - Chronological list](http://kasmana.people.cofc.edu/MATHFICT/mfbrowse-pubyear.php)
 
+## Math Songs
+- [Little Boots - Mathematics](https://www.youtube.com/watch?v=M_JZrQLnCPA)
+- [Little Boots - Symmetry](https://www.youtube.com/watch?v=9Wuhql1zmBg)
+- [Linda Perhacs - Parallelograms](https://www.youtube.com/watch?v=z9VbJmbtMW8)
+
+
 ## Digital teaching presentation tools / resources:
 - [Xournall ++ Note taking Software](https://github.com/xournalpp/xournalpp)
 - [Using phone as document camera setup](https://mhenr18.github.io/improvised-document-camera/)
