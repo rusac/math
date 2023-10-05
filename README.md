@@ -125,6 +125,11 @@ Gerrymandering:
 - [Townscaper - Procedural Generation](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 - [Unreal Engine Optimized Post-Effects](https://adriancourreges.com/blog/2018/12/02/ue4-optimized-post-effects/)
 
+## History
+
+- [Homework exercises in Sumeria](https://www.science.org/content/article/even-sumerians-had-homework)
+- [Finance in Mesopotamia](https://som.yale.edu/story/2023/prof-goetzmann-discusses-finance-practices-mesopotamia) - *"Although concepts like compound interest, joint ventures, commercial law and international trade are familiar to us today, such practices have deep histories.  Prof. Goetzmann will discuss how ancient financial records are available to us from cuneiform texts starting in the 3rd millennium BCE and covering war treaties, trade between Mesopotamian entities and Dilmun, land transactions conducted by women, and business partnerships in the textile trade. "*
+
 ## Infinity
 
 - [Infinity and the Mind](http://www.rudyrucker.com/infinityandthemind/)
