@@ -6,6 +6,7 @@
 
 ## Algorithms
 
+- [Ancient Babylonian Algorithms - Donald E. Knuth (pdf)](https://teaching.csse.uwa.edu.au/units/CITS1001/extension/ancient-babylonian-algorithms.pdf)
 - [How Reddit ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
 - [Recounting the Rationals - a process for listing all rational numbers](https://www.math.upenn.edu/~wilf/website/recounting.pdf)
 
