@@ -235,6 +235,10 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 
 - [Game Design - Programming Track Visuals in SNES game F-Zero](http://meatfighter.com/fzerotruehorizons/)
 
+## Weather
+
+- [Model for Prediction Across Scales - MPAS](https://ncar.ucar.edu/what-we-offer/models/model-prediction-across-scales-mpas) *"The Model for Prediction Across Scales (MPAS) is a collaborative project for developing atmosphere, ocean and other earth-system simulation components for use in climate, regional climate and weather studies.... The defining features of MPAS are the unstructured Voronoi meshes and C-grid discretization used as the basis for many of the model components.  "*
+
 
 
 # Where not using math, or using math poorly, can cause problems
