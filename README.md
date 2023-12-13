@@ -249,6 +249,7 @@ Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonome
 - [What Happens When Maths Goes Wrong? with Matt Parker](https://www.youtube.com/watch?v=6JwEYamjXpA) - *"You can find any pattern you want to any level of precision you want as long as you're prepared to ignore enough data."*
 - [Beyond Reasonable Doubt - The Story of Sally Clark (Bayes' Theorem used in court case)](https://plus.maths.org/content/beyond-reasonable-doubt)
 - [Honda Needs a Tune-Up](http://davidsd.org/2008/12/honda-needs-a-tune-up/) *- "A musical road that Honda built in Lancaster, CA.. A team of engineers carved some grooves into a highway that were carefully spaced to play the William Tell Overture as you drive over them at a constant speed."*
+- [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7) *"But on the stub pipe recovered from the failed Qantas engine, the counter bore was displaced to one side by approximately half a millimeter, resulting in an irregular wall thickness that varied from 1.42 mm on one side to only 0.35 mm on the other. It was this extra thin part of the pipe wall that failed on flight 32."*
 
 # Math prep, studying, etc
 
