@@ -50,6 +50,7 @@
 - [Slime Mold Grows Network Just Like Tokyo Rail System](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/)
 - [Soldier Crab Logic Gate](https://arxiv.org/pdf/1204.1749.pdf) Abstract: *Soldier crabs Mictyris guinotae exhibit pronounced swarming behaviour. The  swarms  of  the  crabs  tolerant  of  perturbations. In  computer models  and  laboratory  experiments  we  demonstrate  that  swarms  of  soldier crabs can implement logical gates when placed in a geometrically constrained environment.*
 - [Water filter inspired by Alan Turing passes first test: Membrane's structure predicted in mathematician's lone biology paper](https://www.nature.com/articles/d41586-018-05055-7)
+- [Erodium seed 'robot' used to plant seeds](https://interestingengineering.com/innovation/bioinspired-seed-carrier) *"Their [erodium seeds] self-drilling behavior influenced a new biodegradable seed carrier that is more effective and has a higher implantation success rate than Erodium seeds themselves."*
 
 ## Business
 
