@@ -413,6 +413,10 @@ http://www.science.smith.edu/%7Ecallahan/cic/ch4.pdf
 - [The Nine Billion Names of God - Clarke]()
 - [Mathematical Fiction - Chronological list](http://kasmana.people.cofc.edu/MATHFICT/mfbrowse-pubyear.php)
 
+## Math in Movies
+- [The Mathematical Movie Database](https://www.qedcat.com/moviemath/index.html)
+- [Mathematics In Movies](https://people.math.harvard.edu/~knill/mathmovies/)
+
 ## Math Songs
 - [Little Boots - Mathematics](https://www.youtube.com/watch?v=M_JZrQLnCPA)
 - [Little Boots - Symmetry](https://www.youtube.com/watch?v=9Wuhql1zmBg)
