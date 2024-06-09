@@ -189,6 +189,7 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 - [A Collector of Math and Physics Surprises - Tadashi Tokieda](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 - [Gears](https://ciechanow.ski/)
+- [An Intuitive Guide to Maxwell's Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 
 ## Proofs
 
@@ -235,6 +236,7 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 - [Apollo 11 implementation of trigonometric functions](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions#email-newsletter) *"This code was submitted by Margaret H. Hamilton (Programming Leader
 Apollo Guidance and Navigation) in March 1969 and was used to evaluate trigonometric functions essential for navigation on both the Command Module and Lunar Lander that ﬁrst landed humans on the Moon."*
 - [An Interactive Introduction to Fourier Transforms - Jez Swanson](https://www.jezzamon.com/fourier/)
+- [From the Circle to Epicycles (Part 1) - An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 
 ## Vectors
 
