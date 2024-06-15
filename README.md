@@ -56,6 +56,10 @@
 
 - [Probability Models for Customer-BaseAnalysis](http://www.brucehardie.com/talks/ho_cba_tut_art_13.pdf) Paraphrased from the pdf: *"Faced with a customer transaction database, we may wish to determine: which customers are most likely to be active in the future; the level of transactions we could expect in future periods from those on the customer list, both individually and collectively; and–individual customer lifetime value."*
 
+## ChatGPT
+
+- [The Reversal Curse: LLMs Trained on “A IS B” Fail to Learn “B IS A”](https://arxiv.org/pdf/2309.12288) From the abstract: *"We also evaluate ChatGPT (GPT-3.5 and GPT-4) on questions about real-world celebrities, such as "Who is Tom Cruise's mother? [A: Mary Lee Pfeiffer]" and the reverse "Who is Mary Lee Pfeiffer's son?". GPT-4 correctly answers questions like the former 79% of the time, compared to 33% for the latter."*
+
 ## Coffee
 
 - [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment](https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238519304102%3Fshowall%3Dtrue)
