@@ -206,9 +206,9 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 ## Rollercoasters
 
--[Beyond velocity and acceleration: jerk, snap and higher derivatives](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008) -*"In this paper we will discuss the third and higher order derivatives of displacement with respect to time, using the trampolines and theme park roller coasters to illustrate this concept. We will also discuss the effects on the human body of different types of acceleration, jerk, snap and higher derivatives, and how they can be used in physics education to further enhance the learning and thus the understanding of classical mechanics concepts."*
--[Velocity, acceleration, jerk, snap and vibration: forces in our bodies during a roller coaster ride](https://iopscience.iop.org/article/10.1088/1361-6552/aba732) -*"This paper discusses the effect of acceleration, jerk, snap and vibration on the experience and safety of roller coaster rides, using authentic data from a dive coaster as an example."*
--[Fourth, fifth, and sixth derivatives of position](https://en.wikipedia.org/wiki/Fourth,_fifth,_and_sixth_derivatives_of_position)
+- [Beyond velocity and acceleration: jerk, snap and higher derivatives](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008) -*"In this paper we will discuss the third and higher order derivatives of displacement with respect to time, using the trampolines and theme park roller coasters to illustrate this concept. We will also discuss the effects on the human body of different types of acceleration, jerk, snap and higher derivatives, and how they can be used in physics education to further enhance the learning and thus the understanding of classical mechanics concepts."*  
+- [Velocity, acceleration, jerk, snap and vibration: forces in our bodies during a roller coaster ride](https://iopscience.iop.org/article/10.1088/1361-6552/aba732) -*"This paper discusses the effect of acceleration, jerk, snap and vibration on the experience and safety of roller coaster rides, using authentic data from a dive coaster as an example."*  
+- [Fourth, fifth, and sixth derivatives of position](https://en.wikipedia.org/wiki/Fourth,_fifth,_and_sixth_derivatives_of_position)
 
 ## Science
 
