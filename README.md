@@ -525,3 +525,12 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 - [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html)
 - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition)
 - [Anki - desktop flashcard tool](https://apps.ankiweb.net/)
+
+### More miscellany
+
+## Video list some problems etc.
+
+Gr 11  
+- [Hardest Exam Question Only 8% of students got this math question correct](https://www.youtube.com/watch?v=tpZRaMFagUg) $\left( \frac{1+\sqrt{5}}{2} \right)^{12} = \?$
+- [Which is larger?](https://www.youtube.com/watch?v=OyIQqnRIYSQ) $2^{100!}$ vs. $(2^{100})!$
+
