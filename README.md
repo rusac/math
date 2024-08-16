@@ -530,6 +530,9 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 
 ## Video list some problems etc.
 
+Gr 9
+- [Powers - which is larger?](https://www.youtube.com/watch?v=cEQTwcFsQG4) $3^{75}$ vs. $2^{100}$
+
 Gr 11  
 - [Introductory factorial problem]() $\frac{x!}{6!} = 7!$
 - [Hardest Exam Question Only 8% of students got this math question correct](https://www.youtube.com/watch?v=tpZRaMFagUg) $\left( \frac{1+\sqrt{5}}{2} \right)^{12} = \?$
