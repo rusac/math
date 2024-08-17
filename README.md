@@ -532,9 +532,11 @@ View the complete course: http://ocw.mit.edu/RES18-008F11 License: Creative Comm
 
 Gr 9
 - [Powers - which is larger?](https://www.youtube.com/watch?v=cEQTwcFsQG4) $3^{75}$ vs. $2^{100}$
+- [Consideration of the question](https://www.youtube.com/watch?v=uyS1cXrsgIg)
 
 Gr 11  
 - [Introductory factorial problem]() $\frac{x!}{6!} = 7!$
 - [Hardest Exam Question Only 8% of students got this math question correct](https://www.youtube.com/watch?v=tpZRaMFagUg) $\left( \frac{1+\sqrt{5}}{2} \right)^{12} = \?$
 - [Which is larger?](https://www.youtube.com/watch?v=OyIQqnRIYSQ) $2^{100!}$ vs. $(2^{100})!$
+- [Pinocchio logic question](https://www.youtube.com/watch?v=YQykZU8mcZY)
 
