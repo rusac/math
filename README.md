@@ -78,6 +78,8 @@ Quaternions are used for 'calculations involving three-dimensional rotations', s
 - [Computational capacity of the universe](https://arxiv.org/pdf/quant-ph/0110141.pdf)
 - [The Maniac 1](https://en.wikipedia.org/wiki/MANIAC_I)*"The MANIAC I (Mathematical Analyzer Numerical Integrator and Automatic Computer Model I) was an early computer built under the direction of Nicholas Metropolis at the Los Alamos Scientific Laboratory."*
 - [The Maniac 1 - computer manual](http://www.bitsavers.org/pdf/lanl/LA-1725_The_MANIAC_Jul54.pdf)
+- [Nasir Ahmed: An Unsung Hero of Digital Media](https://spectrum.ieee.org/compression-algorithms) *"His digital-compression breakthrough helped make JPEGs and MPEGs possible."*
+- [Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform)
 
 ## Cryptography
 
