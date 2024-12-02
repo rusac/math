@@ -16,7 +16,9 @@
 
 ## Art
 
+- [Peano Curve](https://en.m.wikipedia.org/wiki/Space-filling_curve)
 - [Rafael Araujo on mathematical illustrations of nature](https://www.orbmag.com/visual-arts/rafael-araujo-on-mathematical-illustrations-of-nature/)
+- [Wacław Szpakowski - Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 
 ## Artificial Intelligence
 
@@ -148,6 +150,8 @@ Gerrymandering:
 
 ## Literature
 
+- [Borges - An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
+- [Borges - The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)
 - [Cadaeic Cadenza - Writing poetry where each word-length denotes successive digits of pi](http://www.cadaeic.net/cadenza.htm)
 
 ## Maps
