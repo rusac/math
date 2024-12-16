@@ -189,6 +189,7 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 ## Prime Numbers
 
 - [Submarine Secrets: Pump Jets And Propellers Explained](https://www.youtube.com/watch?v=ugSEIiTZ1Pg) - *From a comment on hackernews: "IIRC submarine screws use prime-numbered blades (5, 7, 9) to cut down on harmonics." Try to find a better source.*
+- [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
 
 ## Programming
 
