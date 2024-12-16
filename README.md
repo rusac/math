@@ -123,6 +123,7 @@ Gerrymandering:
 - [Dobble - The Mind-Bending Math Behind Spot It!](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://allenchou.net/2020/01/dot-product-projection-reflection/)
 - [The Mathematical Beauty of the Game SET](https://aperiodical.com/2018/07/the-mathematical-beauty-of-the-game-set/)
+- [The Art and Mathematics of Genji-Kō](https://www.oranlooney.com/post/genji-ko/)
 - [Demo-Man - Interactive gamedev tutorials](https://demoman.net/)*Trigonometry and vector mathematics in basic videogame development.*
 - [Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)*Vector maths for videogames.*
 - [Pysically Based Rendering - From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
