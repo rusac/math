@@ -16,6 +16,7 @@
 
 ## Art
 
+- [Elliptic Curves and the Hopf Fibration](https://arxiv.org/pdf/2505.09627)
 - [Peano Curve](https://en.m.wikipedia.org/wiki/Space-filling_curve)
 - [Rafael Araujo on mathematical illustrations of nature](https://www.orbmag.com/visual-arts/rafael-araujo-on-mathematical-illustrations-of-nature/)
 - [Wacław Szpakowski - Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
