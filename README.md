@@ -228,6 +228,9 @@ The complete preprint is available on-line at http://www.cs.cornell.edu/home/kle
 
 ## Statistics, data management, probability
 
+- [The Bad Boy of Bar Charts](https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html)
+- [Florence Nightingale - Data Scientist](https://blog.engora.com/2020/05/florence-nightingale-data-analyst.html)
+
 - [Game Track - Covering the gaming market](https://www.ipsos.com/ipsos-mori/en-uk/gametrack)
 
 - [German Tank Problem](https://mathsection.com/german-tank-problem/)
