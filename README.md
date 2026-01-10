@@ -47,6 +47,7 @@
 ## Biomimicry
 
 - [Geckos - Researchers built a gecko-bot to study how geckos glide and crash land](https://arstechnica.com/science/2021/12/researchers-built-a-gecko-bot-to-study-how-geckos-glide-and-crash-land/)
+- [High-speed trains - nose inspired by the kingfisher](https://www.youtube.com/watch?v=iMtXqTmfta0) *Short video on general biomimicry.*
 - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/)
 - [Short video explaining biomimicry](https://www.youtube.com/watch?v=iMtXqTmfta0&)
 - [Sea Urchin Spines Inspire Elastic Concrete](https://github.com/rusac/math/blob/master/Mesocrystalline%20calcium%20silicate%20hydrate%20-%20elastic%20concrete%20(2017)e1701216.full.pdf)
