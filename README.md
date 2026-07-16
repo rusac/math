@@ -14,6 +14,10 @@
 
 - [Real-world applications of mathematics, by arxiv subject area?](https://mathoverflow.net/questions/2556/real-world-applications-of-mathematics-by-arxiv-subject-area)
 
+## Architecture
+
+- [The mathematical secrets hidden at the heart of Barcelona’s Sagrada Família](https://theconversation.com/the-mathematical-secrets-hidden-at-the-heart-of-barcelonas-sagrada-familia-285185)  
+
 ## Art
 
 - [Elliptic Curves and the Hopf Fibration](https://arxiv.org/pdf/2505.09627)
